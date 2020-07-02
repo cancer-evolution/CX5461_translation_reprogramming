@@ -9,7 +9,7 @@ library(ggplot2)
 library(GO.db)
 library(ggrepel)
 
-source("polysome_profiling_functions.R")
+source("helper_functions.R")
 
 counts <- list()
   
