@@ -2,7 +2,7 @@ library(DESeq2)
 library(limma)
 library(edgeR)
 library(reshape2)
-source("polysome_profiling_functions.R")
+source("helper_functions.R")
 
 htseq_matrix_input <- read.delim("Resistant_input.txt")
 htseq_matrix_poly <- read.delim("Resistant_poly.txt")
