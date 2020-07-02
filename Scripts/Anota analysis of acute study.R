@@ -8,7 +8,7 @@ library(anota2seq)
 library(DESeq2)
 library(ggrepel)
 
-source("polysome_profiling_functions.R")
+source("helper_functions.R")
 
 files <- c("Acute_input.txt",
            "Acute_poly.txt")
