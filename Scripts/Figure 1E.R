@@ -8,7 +8,7 @@ library(readr)
 library(ggplot2)
 library(GO.db)
 
-source("polysome_profiling_functions.R")
+source("helper_functions.R")
 
 files <- c("Acute_input.txt","Acute_poly.txt")
 
