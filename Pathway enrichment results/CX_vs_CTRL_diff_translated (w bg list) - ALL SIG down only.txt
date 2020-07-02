@@ -1,0 +1,51 @@
+Networks	Total	pValue	Min FDR	p-value	FDR	In Data	"Network Objects from Active Data"
+Immune response_Antigen presentation	197	6.522E-08	6.587E-06	6.522E-08	6.587E-06	10	HLA-A, HLA-C, HLA-B, HLA-E, HLA-DOA, Tapasin, CD40(TNFRSF5), MHC class II beta chain, HLA-DRB1, HLA-Cw3
+Immune response_Phagosome in antigen presentation	243	2.960E-04	1.495E-02	2.960E-04	1.495E-02	7	HLA-A, HLA-C, HLA-B, Pyk2(FAK2), CD21, Tapasin, HLA-Cw3
+Development_Neurogenesis_Axonal guidance	230	1.409E-03	4.745E-02	1.409E-03	4.745E-02	6	c-Src, ROBO2, Ephrin-B receptors, UNC5C, CACNA1C, APOER2
+Cell adhesion_Leucocyte chemotaxis	180	2.782E-03	7.025E-02	2.782E-03	7.025E-02	5	c-Src, Pyk2(FAK2), CCL21, PTEN, GRAP2
+Inflammation_NK cell cytotoxicity	164	1.186E-02	2.395E-01	1.186E-02	2.395E-01	4	HLA-C, HLA-B, Pyk2(FAK2), HLA-E
+Cell adhesion_Attractive and repulsive receptors	175	1.476E-02	2.428E-01	1.476E-02	2.428E-01	4	c-Src, ROBO2, Ephrin-B receptors, UNC5C
+Cell adhesion_Cadherins	182	1.683E-02	2.428E-01	1.683E-02	2.428E-01	4	c-Src, PTPRF (LAR), R-cadherin, PTEN
+Proliferation_Lymphocyte proliferation	210	2.688E-02	3.393E-01	2.688E-02	3.393E-01	4	TNF-beta, Pyk2(FAK2), CD40(TNFRSF5), GRAP2
+Cell adhesion_Glycoconjugates	162	5.799E-02	4.894E-01	5.799E-02	4.894E-01	3	c-Src, Pyk2(FAK2), CCL21
+Cell adhesion_Cell junctions	162	5.799E-02	4.894E-01	5.799E-02	4.894E-01	3	c-Src, R-cadherin, PTEN
+Signal transduction_ERBB-family signaling	75	6.300E-02	4.894E-01	6.300E-02	4.894E-01	2	c-Src, PTEN
+Apoptosis_Apoptotic mitochondria	77	6.598E-02	4.894E-01	6.598E-02	4.894E-01	2	Mitofusin 2, BOK
+Transport_Synaptic vesicle exocytosis	175	6.977E-02	4.894E-01	6.977E-02	4.894E-01	3	SV2A, MUNC13, MUNC13-4
+Neurophysiological process_Long-term potentiation	82	7.363E-02	4.894E-01	7.363E-02	4.894E-01	2	c-Src, Pyk2(FAK2)
+Development_Neurogenesis_Synaptogenesis	180	7.458E-02	4.894E-01	7.458E-02	4.894E-01	3	Ephrin-B receptors, MUNC13, APOER2
+Cytoskeleton_Regulation of cytoskeleton rearrangement	183	7.753E-02	4.894E-01	7.753E-02	4.894E-01	3	c-Src, FGD3, PTEN
+Apoptosis_Anti-Apoptosis mediated by external signals by Estrogen	95	9.477E-02	5.343E-01	9.477E-02	5.343E-01	2	c-Src, CACNA1C
+Reproduction_Gonadotropin regulation	200	9.521E-02	5.343E-01	9.521E-02	5.343E-01	3	c-Src, Pyk2(FAK2), CACNA1C
+Signal transduction_ESR1-nuclear pathway	216	1.133E-01	5.556E-01	1.133E-01	5.556E-01	3	c-Src, CD21, FAP-1
+Signal Transduction_Cholecystokinin signaling	106	1.138E-01	5.556E-01	1.138E-01	5.556E-01	2	c-Src, Pyk2(FAK2)
+Inflammation_IFN-gamma signaling	109	1.192E-01	5.556E-01	1.192E-01	5.556E-01	2	c-Src, Pyk2(FAK2)
+Cell adhesion_Integrin priming	110	1.210E-01	5.556E-01	1.210E-01	5.556E-01	2	c-Src, PTEN
+Inflammation_IL-4 signaling	115	1.301E-01	5.613E-01	1.301E-01	5.613E-01	2	CD40(TNFRSF5), PTEN
+Cardiac development_BMP_TGF_beta_signaling	117	1.338E-01	5.613E-01	1.338E-01	5.613E-01	2	c-Src, CACNA1C
+Apoptosis_Death Domain receptors & caspases in apoptosis	123	1.451E-01	5.613E-01	1.451E-01	5.613E-01	2	TNF-beta, CD40(TNFRSF5)
+Muscle contraction_Nitric oxide signaling in the cardiovascular system	124	1.469E-01	5.613E-01	1.469E-01	5.613E-01	2	c-Src, CACNA1C
+Signal transduction_Androgen receptor nuclear signaling	126	1.507E-01	5.613E-01	1.507E-01	5.613E-01	2	c-Src, PTEN
+Cardiac development_Role of NADPH oxidase and ROS	134	1.661E-01	5.613E-01	1.661E-01	5.613E-01	2	c-Src, PTEN
+Immune response_BCR pathway	137	1.720E-01	5.613E-01	1.720E-01	5.613E-01	2	CD21, PTEN
+Chemotaxis	137	1.720E-01	5.613E-01	1.720E-01	5.613E-01	2	ROBO2, CCL21
+Immune response_T helper cell differentiation	139	1.759E-01	5.613E-01	1.759E-01	5.613E-01	2	TNF-beta, CD40(TNFRSF5)
+Neurophysiological process_GABAergic neurotransmission	140	1.778E-01	5.613E-01	1.778E-01	5.613E-01	2	c-Src, Pyk2(FAK2)
+Apoptosis_Apoptosis stimulation by external signals	144	1.857E-01	5.684E-01	1.857E-01	5.684E-01	2	TNF-beta, Pyk2(FAK2)
+Cardiac development_Wnt_beta-catenin, Notch, VEGF, IP3 and integrin signaling	151	1.996E-01	5.930E-01	1.996E-01	5.930E-01	2	c-Src, PTEN
+Signal Transduction_TGF-beta, GDF and Activin signaling	154	2.056E-01	5.934E-01	2.056E-01	5.934E-01	2	c-Src, Pyk2(FAK2)
+Cell adhesion_Platelet aggregation	158	2.137E-01	5.943E-01	2.137E-01	5.943E-01	2	c-Src, Pyk2(FAK2)
+Reproduction_FSH-beta signaling pathway	160	2.177E-01	5.943E-01	2.177E-01	5.943E-01	2	c-Src, Pyk2(FAK2)
+Reproduction_GnRH signaling pathway	166	2.299E-01	6.085E-01	2.299E-01	6.085E-01	2	c-Src, Pyk2(FAK2)
+Neurophysiological process_Corticoliberin signaling	49	2.363E-01	6.085E-01	2.363E-01	6.085E-01	1	CACNA1C
+Cell adhesion_Platelet-endothelium-leucocyte interactions	174	2.461E-01	6.085E-01	2.461E-01	6.085E-01	2	c-Src, CD40(TNFRSF5)
+Signal transduction_WNT signaling	177	2.523E-01	6.085E-01	2.523E-01	6.085E-01	2	c-Src, PTEN
+Development_Regulation of telomere length	53	2.530E-01	6.085E-01	2.530E-01	6.085E-01	1	TEP1
+Autophagy_Autophagy	55	2.612E-01	6.136E-01	2.612E-01	6.136E-01	1	PTEN
+Inflammation_Jak-STAT Pathway	186	2.706E-01	6.136E-01	2.706E-01	6.136E-01	2	TNF-beta, CD40(TNFRSF5)
+Development_Keratinocyte differentiation	58	2.734E-01	6.136E-01	2.734E-01	6.136E-01	1	c-Src
+Transport_Calcium transport	192	2.829E-01	6.212E-01	2.829E-01	6.212E-01	2	Pyk2(FAK2), CACNA1C
+Reproduction_Feeding and Neurohormone signaling 	210	3.196E-01	6.283E-01	3.196E-01	6.283E-01	2	c-Src, CACNA1C
+Regulation of metabolism_Bile acid regulation of lipid metabolism and negative FXR-dependent regulation of bile acids concentration	71	3.238E-01	6.283E-01	3.238E-01	6.283E-01	1	FASN
+Signal transduction_Androgen receptor signaling cross-talk	72	3.276E-01	6.283E-01	3.276E-01	6.283E-01	1	c-Src
+Inflammation_Complement system	75	3.386E-01	6.283E-01	3.386E-01	6.283E-01	1	CD21

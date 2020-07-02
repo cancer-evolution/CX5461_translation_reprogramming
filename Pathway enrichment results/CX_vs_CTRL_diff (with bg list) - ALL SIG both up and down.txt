@@ -1,0 +1,51 @@
+Networks	Total	pValue	Min FDR	p-value	FDR	In Data	"Network Objects from Active Data"
+Cell adhesion_Leucocyte chemotaxis	115	1.759E-03	2.181E-01	1.759E-03	2.181E-01	7	Calmodulin, PTEN, c-Src, CCR3, Pyk2(FAK2), CCL21, GRAP2
+Reproduction_Gonadotropin regulation	88	1.090E-02	4.247E-01	1.090E-02	4.247E-01	5	Calmodulin, CACNA1C, c-Src, MEK4(MAP2K4), Pyk2(FAK2)
+Cell adhesion_Integrin priming	58	1.169E-02	4.247E-01	1.169E-02	4.247E-01	4	Calmodulin, PTEN, c-Src, Cytohesin3
+Neurophysiological process_Long-term potentiation	33	1.371E-02	4.247E-01	1.371E-02	4.247E-01	3	Calmodulin, c-Src, Pyk2(FAK2)
+Signal Transduction_Cholecystokinin signaling	66	1.812E-02	4.247E-01	1.812E-02	4.247E-01	4	Calmodulin, c-Src, CCR3, Pyk2(FAK2)
+Proliferation_Lymphocyte proliferation	149	2.614E-02	4.247E-01	2.614E-02	4.247E-01	6	Calmodulin, TNF-beta, MEK4(MAP2K4), Pyk2(FAK2), CD40(TNFRSF5), GRAP2
+Development_Neurogenesis_Axonal guidance	155	3.097E-02	4.247E-01	3.097E-02	4.247E-01	6	Calmodulin, CACNA1C, c-Src, ROBO2, UNC5C, APOER2
+Neurophysiological process_GABAergic neurotransmission	45	3.129E-02	4.247E-01	3.129E-02	4.247E-01	3	Calmodulin, c-Src, Pyk2(FAK2)
+Immune response_Antigen presentation	126	4.357E-02	4.247E-01	4.357E-02	4.247E-01	5	HLA-DOA, Tapasin, HLA-E, CD40(TNFRSF5), HLA-Cw3
+Neurophysiological process_Corticoliberin signaling	22	4.430E-02	4.247E-01	4.430E-02	4.247E-01	2	Calmodulin, CACNA1C
+Signal transduction_ERBB-family signaling	52	4.519E-02	4.247E-01	4.519E-02	4.247E-01	3	PTEN, c-Src, MEK4(MAP2K4)
+Apoptosis_Anti-Apoptosis mediated by external signals by Estrogen	52	4.519E-02	4.247E-01	4.519E-02	4.247E-01	3	CACNA1C, c-Src, MEK4(MAP2K4)
+Development_ERK5 in cell proliferation and neuronal survival	23	4.805E-02	4.247E-01	4.805E-02	4.247E-01	2	SGK1, PKC-lambda/iota
+Immune response_T helper cell differentiation	90	4.894E-02	4.247E-01	4.894E-02	4.247E-01	4	Calmodulin, TNF-beta, MEK4(MAP2K4), CD40(TNFRSF5)
+Muscle contraction_Nitric oxide signaling in the cardiovascular system	58	5.915E-02	4.247E-01	5.915E-02	4.247E-01	3	Calmodulin, CACNA1C, c-Src
+Signal transduction_Oxytocin signaling	26	5.994E-02	4.247E-01	5.994E-02	4.247E-01	2	Calmodulin, CACNA1C
+Neurophysiological process_Olfactory transduction	4	6.024E-02	4.247E-01	6.024E-02	4.247E-01	1	Calmodulin
+Signal transduction_ESR2 pathway	59	6.166E-02	4.247E-01	6.166E-02	4.247E-01	3	Calmodulin, c-Src, DAM1
+Reproduction_FSH-beta signaling pathway	99	6.514E-02	4.251E-01	6.514E-02	4.251E-01	4	Calmodulin, c-Src, DUSP5, Pyk2(FAK2)
+Transcription_mRNA processing	149	7.815E-02	4.755E-01	7.815E-02	4.755E-01	5	ZNF162, GRSF1, FBP21, Poly(A) polymerase, LSM3
+Reproduction_GnRH signaling pathway	66	8.053E-02	4.755E-01	8.053E-02	4.755E-01	3	Calmodulin, c-Src, Pyk2(FAK2)
+Inflammation_IFN-gamma signaling	73	1.016E-01	5.568E-01	1.016E-01	5.568E-01	3	Calmodulin, c-Src, Pyk2(FAK2)
+Signal transduction_WNT signaling	118	1.074E-01	5.568E-01	1.074E-01	5.568E-01	4	Calmodulin, PTEN, c-Src, MEK4(MAP2K4)
+Development_Keratinocyte differentiation	37	1.104E-01	5.568E-01	1.104E-01	5.568E-01	2	c-Src, MEK4(MAP2K4)
+Reproduction_Feeding and Neurohormone signaling 	120	1.124E-01	5.568E-01	1.124E-01	5.568E-01	4	Calmodulin, CACNA1C, c-Src, PTPN2
+Cell adhesion_Cadherins	125	1.255E-01	5.568E-01	1.255E-01	5.568E-01	4	PTEN, c-Src, PTPRF (LAR), R-cadherin
+Cell adhesion_Platelet aggregation	83	1.351E-01	5.568E-01	1.351E-01	5.568E-01	3	Calmodulin, c-Src, Pyk2(FAK2)
+Development_Regulation of telomere length	42	1.361E-01	5.568E-01	1.361E-01	5.568E-01	2	TEP1, TRF2
+Cell adhesion_Glycoconjugates	84	1.386E-01	5.568E-01	1.386E-01	5.568E-01	3	c-Src, Pyk2(FAK2), CCL21
+Transport_Calcium transport	85	1.422E-01	5.568E-01	1.422E-01	5.568E-01	3	Calmodulin, CACNA1C, Pyk2(FAK2)
+Cytoskeleton_Regulation of cytoskeleton rearrangement	132	1.448E-01	5.568E-01	1.448E-01	5.568E-01	4	FGD3, PTEN, c-Src, PKC-lambda/iota
+Immune response_BCR pathway	86	1.458E-01	5.568E-01	1.458E-01	5.568E-01	3	Calmodulin, PTEN, CD21
+Chemotaxis	88	1.531E-01	5.568E-01	1.531E-01	5.568E-01	3	ROBO2, CCR3, CCL21
+Cardiac development_Wnt_beta-catenin, Notch, VEGF, IP3 and integrin signaling	89	1.568E-01	5.568E-01	1.568E-01	5.568E-01	3	Calmodulin, PTEN, c-Src
+Neurophysiological process_Melatonin signaling	11	1.572E-01	5.568E-01	1.572E-01	5.568E-01	1	Calmodulin
+Autophagy_Autophagy	47	1.629E-01	5.610E-01	1.629E-01	5.610E-01	2	TRAM, PTEN
+Signal transduction_Nitric oxide signaling	48	1.684E-01	5.642E-01	1.684E-01	5.642E-01	2	Calmodulin, c-Src
+Cardiac development_Role of NADPH oxidase and ROS	94	1.756E-01	5.683E-01	1.756E-01	5.683E-01	3	PTEN, c-Src, MEK4(MAP2K4)
+Inflammation_NK cell cytotoxicity	95	1.795E-01	5.683E-01	1.795E-01	5.683E-01	3	Calmodulin, Pyk2(FAK2), HLA-E
+Cell adhesion_Cell junctions	96	1.833E-01	5.683E-01	1.833E-01	5.683E-01	3	PTEN, c-Src, R-cadherin
+Cell cycle_G0-G1	52	1.906E-01	5.763E-01	1.906E-01	5.763E-01	2	E2F6, E2F5
+Apoptosis_Apoptosis stimulation by external signals	104	2.151E-01	6.160E-01	2.151E-01	6.160E-01	3	TNF-beta, MEK4(MAP2K4), Pyk2(FAK2)
+Signal transduction_Androgen receptor nuclear signaling	104	2.151E-01	6.160E-01	2.151E-01	6.160E-01	3	Calmodulin, PTEN, c-Src
+Proliferation_Positive regulation cell proliferation	156	2.186E-01	6.160E-01	2.186E-01	6.160E-01	4	c-Src, MEK4(MAP2K4), CCR3, Pyk2(FAK2)
+Signal Transduction_TGF-beta, GDF and Activin signaling	109	2.355E-01	6.250E-01	2.355E-01	6.250E-01	3	Calmodulin, c-Src, Pyk2(FAK2)
+Immune response_TCR signaling	109	2.355E-01	6.250E-01	2.355E-01	6.250E-01	3	Calmodulin, MEK4(MAP2K4), GRAP2
+Signal transduction_Neuropeptide signaling pathways	62	2.475E-01	6.250E-01	2.475E-01	6.250E-01	2	Calmodulin, c-Src
+Apoptosis_Apoptotic mitochondria	62	2.475E-01	6.250E-01	2.475E-01	6.250E-01	2	BOK, Mitofusin 2
+Signal transduction_ESR1-nuclear pathway	165	2.486E-01	6.250E-01	2.486E-01	6.250E-01	4	c-Src, Cyclin G2, CD21, FAP-1
+Immune response_Phagosome in antigen presentation	166	2.520E-01	6.250E-01	2.520E-01	6.250E-01	4	Tapasin, Pyk2(FAK2), CD21, HLA-Cw3

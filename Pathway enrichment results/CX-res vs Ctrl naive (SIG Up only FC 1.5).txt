@@ -1,0 +1,51 @@
+Networks	Total	pValue	Min FDR	p-value	FDR	In Data	"Network Objects from Active Data"
+Signal transduction_Erk Interactions: Inhibition of Erk	34	7.140E-07	2.868E-04	7.140E-07	2.868E-04	7	MKP-3, MKP-X, PKA-cat (cAMP-dependent), Calcineurin A (catalytic), MKP-4, PP2A catalytic, MKP-2
+Immune response_IL-7 signaling in T lymphocytes	37	1.314E-06	2.868E-04	1.314E-06	2.868E-04	7	RAG2, RAG1/2 complex, FKHR, IRS-1, Fyn, RAG1, PI3K cat class IA (p110-alpha)
+Immune response_Platelet activating factor/ PTAFR pathway signaling	55	1.835E-06	2.868E-04	1.835E-06	2.868E-04	8	PI3K cat class IA, p38 MAPK, NF-AT1(NFATC2), Adenylate cyclase, PKA-cat (cAMP-dependent), Calcineurin A (catalytic), NF-AT, NF-kB
+Immune response_CD28 signaling	55	1.835E-06	2.868E-04	1.835E-06	2.868E-04	8	PI3K cat class IA, p38 MAPK, NF-AT1(NFATC2), Calcineurin A (catalytic), NF-AT, NF-kB, PIP5KI, Fyn
+Breakdown of CD4+ T cell peripheral tolerance in type 1 diabetes mellitus	49	9.383E-06	1.173E-03	9.383E-06	1.173E-03	7	RAG2, HLA-DQA1, NF-AT, NF-kB, HLA-DRB1, RAG1, MHC class II
+Immune response_Antigen presentation by MHC class II	118	1.399E-05	1.458E-03	1.399E-05	1.458E-03	10	MHC class II alpha chain, PI3K cat class IA, CD23, p38 MAPK, MHC class II beta chain, CD74, HLA-DM, MYO1E, MHC class II, PIP5K1A
+Immune response_IL-16 signaling pathway	55	2.051E-05	1.809E-03	2.051E-05	1.809E-03	7	RAG2, RAG1/2 complex, FKHR, IL-16, Skp2/TrCP/FBXW, RAG1, PI3K cat class IA (p110-alpha)
+Signal transduction_Cyclic AMP signaling	38	2.316E-05	1.809E-03	2.316E-05	1.809E-03	6	PKA-cat (cAMP-dependent), RAP-1A, Calcineurin A (catalytic), Adenylate cyclase type VIII, Adenylate cyclase type III, Ryanodine receptor 1
+Apoptosis and survival_APRIL and BAFF signaling	39	2.702E-05	1.877E-03	2.702E-05	1.877E-03	6	CD23, NF-AT1(NFATC2), NF-kB2 (p100), Calcineurin A (catalytic), NF-kB2 (p52), CD21
+Neurogenesis_NGF/ TrkA MAPK-mediated signaling	105	3.479E-05	2.175E-03	3.479E-05	2.175E-03	9	p38 MAPK, RIN, RGS2, PKA-cat (cAMP-dependent), RAP-1A, PP2A catalytic, EGR1, RIT, APS
+Apoptosis and survival_BAD phosphorylation	42	4.182E-05	2.376E-03	4.182E-05	2.376E-03	6	PI3K cat class IA, PKA-cat (cAMP-dependent), Calcineurin A (catalytic), PP2A catalytic, IRS-1, 14-3-3
+Immune response_IL-7 signaling in B lymphocytes	43	4.798E-05	2.499E-03	4.798E-05	2.499E-03	6	RAG2, RAG1/2 complex, FKHR, Fyn, RAG1, PI3K cat class IA (p110-alpha)
+Role of alpha-6/beta-4 integrins in carcinoma progression	45	6.249E-05	3.004E-03	6.249E-05	3.004E-03	6	PI3K cat class IA, Plectin 1, ITGB4, alpha-6/beta-4 integrin, IRS-1, ErbB3
+Immune response_IL-2 activation and signaling pathway	48	9.060E-05	4.045E-03	9.060E-05	4.045E-03	6	PI3K cat class IA, NF-AT1(NFATC2), Calcineurin A (catalytic), NF-kB, EGR1, c-Myc
+PDE4 regulation of cyto/chemokine expression in inflammatory skin diseases	50	1.144E-04	4.765E-03	1.144E-04	4.765E-03	6	p38 MAPK, NF-AT1(NFATC2), Adenylate cyclase, PKA-cat (cAMP-dependent), PDE4, 14-3-3
+Immune response_NF-AT in immune response	51	1.280E-04	4.999E-03	1.280E-04	4.999E-03	6	PI3K cat class IA, NF-AT1(NFATC2), Calcineurin A (catalytic), NF-AT, NF-kB, MHC class II
+Development_Role of HDAC and calcium/calmodulin-dependent kinase (CaMK) in control of skeletal myogenesis	53	1.590E-04	5.847E-03	1.590E-04	5.847E-03	6	PI3K cat class IA, NF-AT1(NFATC2), Calcineurin A (catalytic), HDAC9, IRS-1, 14-3-3
+Immune response_Regulation of T cell function by CTLA-4	36	2.153E-04	7.475E-03	2.153E-04	7.475E-03	5	PI3K cat class IA, NF-AT1(NFATC2), PP2A catalytic, NF-kB, Fyn
+Role of ZNF202 in regulation of expression of genes involved in atherosclerosis	21	2.714E-04	8.927E-03	2.714E-04	8.927E-03	4	ABCA1, APOE, IA-1, HDL proteins
+Regulation of CFTR activity (normal and CF)	62	3.797E-04	1.187E-02	3.797E-04	1.187E-02	6	S100A10, Adenylate cyclase, PKA-cat (cAMP-dependent), Calcineurin A (catalytic), PGE2R4, PP2A catalytic
+Ovarian cancer (main signaling cascades)	65	4.911E-04	1.369E-02	4.911E-04	1.369E-02	6	PI3K cat class IA, PKA-cat (cAMP-dependent), NF-kB, TERT, c-Myc, PI3K cat class IA (p110-alpha)
+Signal transduction_AKT signaling	43	5.037E-04	1.369E-02	5.037E-04	1.369E-02	5	PI3K cat class IA, PP2A catalytic, NF-kB, IRS-1, c-Myc
+Development_Adenosine A2A receptor signaling	43	5.037E-04	1.369E-02	5.037E-04	1.369E-02	5	PI3K cat class IA, p38 MAPK, PKA-cat (cAMP-dependent), RAP-1A, NF-kB
+Immune response_T regulatory cell-mediated modulation of antigen-presenting cell functions	66	5.334E-04	1.389E-02	5.334E-04	1.389E-02	6	NF-kB2 (p100), PKA-cat (cAMP-dependent), RAP-1A, NF-kB2 (p52), NF-kB, MHC class II
+Development_Ligand-independent activation of ESR1 and ESR2	44	5.613E-04	1.393E-02	5.613E-04	1.393E-02	5	PI3K cat class IA, PKA-cat (cAMP-dependent), IRS-1, PI3K cat class IA (p110-alpha), ErbB3
+Immune response_TNF-R2 signaling pathways	45	6.236E-04	1.393E-02	6.236E-04	1.393E-02	5	PI3K cat class IA, p38 MAPK, NF-kB2 (p100), NF-kB2 (p52), NF-kB
+Immune response_IFN-alpha/beta signaling via PI3K and NF-kB pathways	94	6.247E-04	1.393E-02	6.247E-04	1.393E-02	7	PI3K cat class IA, NF-kB2 (p100), NF-kB2 (p52), MNK2(GPRK7), NF-kB, IRS-1, c-Myc
+Signal transduction_mTORC2 downstream signaling	68	6.264E-04	1.393E-02	6.264E-04	1.393E-02	6	RAG2, PKA-cat (cAMP-dependent), FKHR, IRS-1, c-Myc, RAG1
+Immune response_OX40L/ OX40 signaling pathway	69	6.774E-04	1.393E-02	6.774E-04	1.393E-02	6	PI3K cat class IA, NF-kB2 (p100), FKHR, Calcineurin A (catalytic), NF-kB2 (p52), NF-kB
+Signal transduction_Calcium signaling	46	6.910E-04	1.393E-02	6.910E-04	1.393E-02	5	NF-AT1(NFATC2), PKA-cat (cAMP-dependent), Calcineurin A (catalytic), PP2A catalytic, Ryanodine receptor 1
+Development_Thrombopoietin-regulated cell processes	46	6.910E-04	1.393E-02	6.910E-04	1.393E-02	5	PI3K cat class IA, RAP-1A, FKHR, c-Myc, Fyn
+Immune response_MIF - the neuroendocrine-macrophage connector	47	7.637E-04	1.492E-02	7.637E-04	1.492E-02	5	ABCA1, PKA-cat (cAMP-dependent), PP2A catalytic, CD74, MHC class II
+Immune response_C3a signaling	48	8.420E-04	1.548E-02	8.420E-04	1.548E-02	5	p38 MAPK, Adenylate cyclase, FKHR, TERT, MHC class II
+Immune response_NF-AT signaling and leukocyte interactions	48	8.420E-04	1.548E-02	8.420E-04	1.548E-02	5	NF-AT1(NFATC2), Calcineurin A (catalytic), NF-AT, NF-kB, MHC class II
+PDE4 regulation of cyto/chemokine expression in arthritis	49	9.261E-04	1.589E-02	9.261E-04	1.589E-02	5	PI3K cat class IA, PKA-cat (cAMP-dependent), RAP-1A, PGE2R4, PDE4
+Transcription_CREB signaling pathway	49	9.261E-04	1.589E-02	9.261E-04	1.589E-02	5	PI3K cat class IA, p38 MAPK, PKA-cat (cAMP-dependent), PP2A catalytic, IRS-1
+SLE genetic marker-specific pathways in T cells	101	9.592E-04	1.589E-02	9.592E-04	1.589E-02	7	NF-AT1(NFATC2), MHC class II beta chain, Calcineurin A (catalytic), Calcineurin A (alpha), NF-kB, HLA-DRB1, MHC class II
+Transport_The role of AVP in regulation of Aquaporin 2 and renal water reabsorption	50	1.016E-03	1.589E-02	1.016E-03	1.589E-02	5	PKA-cat (cAMP-dependent), RAP-1A, SPA1, Adenylate cyclase type III, Ryanodine receptor 1
+Development_Adenosine A2B receptor signaling	50	1.016E-03	1.589E-02	1.016E-03	1.589E-02	5	PI3K cat class IA, p38 MAPK, PKA-cat (cAMP-dependent), RAP-1A, NF-kB
+Immune response_IL-3 signaling via ERK and PI3K	102	1.017E-03	1.589E-02	1.017E-03	1.589E-02	7	PI3K cat class IA, PKA-cat (cAMP-dependent), RAP-1A, Calcineurin A (catalytic), EGR1, PDE4, PI3K cat class IA (p110-alpha)
+Development_IGF-1 receptor signaling	51	1.113E-03	1.696E-02	1.113E-03	1.696E-02	5	PI3K cat class IA, MNK2(GPRK7), NF-kB, IRS-1, c-Myc
+PGE2 pathways in cancer	55	1.568E-03	2.230E-02	1.568E-03	2.230E-02	5	Adenylate cyclase, PKA-cat (cAMP-dependent), PGE2R4, EGR1, c-Myc
+Immune response_B cell antigen receptor (BCR) pathway	110	1.581E-03	2.230E-02	1.581E-03	2.230E-02	7	p38 MAPK, FKHR, Calcineurin A (catalytic), PP2A catalytic, NF-kB, EGR1, PIP5KI
+G-protein signaling_Regulation of CDC42 activity	33	1.606E-03	2.230E-02	1.606E-03	2.230E-02	4	CDGAP, RhoGDI gamma, B-chimaerin, Fyn
+Chemotaxis_CCL19- and CCL21-mediated chemotaxis	33	1.606E-03	2.230E-02	1.606E-03	2.230E-02	4	p38 MAPK, Adenylate cyclase, PKA-cat (cAMP-dependent), PGE2R4
+Immune response_Fc epsilon RI pathway	56	1.701E-03	2.311E-02	1.701E-03	2.311E-02	5	PI3K cat class IA, p38 MAPK, Calcineurin A (catalytic), NF-kB, Fyn
+Immune response_TCR alpha/beta signaling pathway	58	1.990E-03	2.559E-02	1.990E-03	2.559E-02	5	NF-AT1(NFATC2), Calcineurin A (catalytic), NF-kB, Fyn, MHC class II
+Effect of H. pylori infection on gastric epithelial cell proliferation	58	1.990E-03	2.559E-02	1.990E-03	2.559E-02	5	RAP-1A, Calcineurin A (catalytic), EGR1, c-Myc, Skp2/TrCP/FBXW
+Altered Ca2+ handling in heart failure	35	2.006E-03	2.559E-02	2.006E-03	2.559E-02	4	Adenylate cyclase, PKA-cat (cAMP-dependent), Calcineurin A (catalytic), PP2A catalytic
+G-protein signaling_G-Protein alpha-s signaling cascades	36	2.230E-03	2.787E-02	2.230E-03	2.787E-02	4	RGS2, PKA-cat (cAMP-dependent), RAP-1A, Ryanodine receptor 1

@@ -1,0 +1,38 @@
+Input IDs	Network Object Name	Gene Symbol	Unit (protein or chem)	Object Type	Description	Therapeutic Drugs	Integrity Biomarker	Integrity Biomarker Role	Integrity Biomarker Type	Integrity Gene Symbol	Signal	p-value
+Rpl11	RPL11	Rpl11	RL11_MOUSE	Generic binding protein	60S ribosomal protein L11						-0.179238817	0.04675007
+Rpl14	RPL14	Rpl14	RL14_MOUSE	Generic binding protein	60S ribosomal protein L14						-0.295906778	0.02116412
+Rpl17	RPL17	Rpl17	RL17_MOUSE	Generic binding protein	60S ribosomal protein L17						-0.271436614	0.02379323
+Rpl22	RPL22	Rpl22	RL22_MOUSE	Generic binding protein	60S ribosomal protein L22						-0.153341787	0.03995657
+	RPL23	LOC100044627	RL23_MOUSE	Generic binding protein	60S ribosomal protein L23							
+	RPL23	LOC100862455	RL23_MOUSE	Generic binding protein	60S ribosomal protein L23							
+Rpl17	RPL23	Rpl23	RL23_MOUSE	Generic binding protein	60S ribosomal protein L23						-0.271436614	0.02379323
+Rpl24	RPL24	Rpl24	RL24_MOUSE	Generic binding protein	60S ribosomal protein L24						-0.221745931	0.04214245
+Rpl26	RPL26	Rpl26	RL26_MOUSE	Generic binding protein	60S ribosomal protein L26						-0.231473574	0.03706561
+Rpl27a	RPL27A	Rpl27a	RL27A_MOUSE	Generic binding protein	60S ribosomal protein L27a						-0.185711272	0.04148534
+Rpl30	RPL30	Rpl30	RL30_MOUSE	Generic binding protein	60S ribosomal protein L30						-0.220569739	0.02540155
+Rpl34	RPL34	Gm4705	RL34_MOUSE	Generic binding protein	60S ribosomal protein L34						-0.282473371	0.02472435
+Rpl34	RPL34	Rpl34	RL34_MOUSE	Generic binding protein	60S ribosomal protein L34						-0.282473371	0.02472435
+Rpl34	RPL34	Rpl34-ps1	RL34_MOUSE	Generic binding protein	60S ribosomal protein L34						-0.282473371	0.02472435
+Rpl35	RPL35	Rpl35	RL35_MOUSE	Generic binding protein	60S ribosomal protein L35						-0.203903216	0.03598435
+Rpl35;Rpl35a	RPL35a	Rpl35a	RL35A_MOUSE	Generic binding protein	60S ribosomal protein L35a						-0.292441793	0.02472435
+Rpl37	RPL37	Rpl37	RL37_MOUSE	Generic binding protein	60S ribosomal protein L37						-0.234778158	0.02647891
+	RPL37	Rpl37rt	RL37_MOUSE	Generic binding protein	60S ribosomal protein L37							
+Rpl6	RPL6	Rpl6	RL6_MOUSE	Generic binding protein	60S ribosomal protein L6						-0.204217649	0.03135533
+Rps13	RPS13	Rps13	RS13_MOUSE	Generic binding protein	40S ribosomal protein S13						-0.282959908	0.02540155
+Rps15a	RPS15a	Rps15a	RS15A_MOUSE	Generic binding protein	40S ribosomal protein S15a						-0.300873214	0.03057782
+Rps16	RPS16	Rps16	RS16_MOUSE	Generic binding protein	40S ribosomal protein S16						-0.201387684	0.04015563
+Rps18	RPS18	Rps18	RS18_MOUSE	Generic binding protein	40S ribosomal protein S18						-0.171637398	0.04052231
+Rps19	RPS19	Rps19	RS19_MOUSE	Generic binding protein	40S ribosomal protein S19						-0.171836504	0.03706561
+Rps21	RPS21	Rps21	RS21_MOUSE	Generic binding protein	40S ribosomal protein S21						-0.282641172	0.02116412
+Rps25	RPS25	Rps25	RS25_MOUSE	Generic binding protein	40S ribosomal protein S25						-0.255649244	0.02929528
+Rps3a1	RPS3A	Rps3a1	RS3A_MOUSE	Generic binding protein	40S ribosomal protein S3a						-0.203218236	0.04015563
+	RPS6	LOC105244208	RS6_MOUSE	Generic binding protein	40S ribosomal protein S6							
+Rps6	RPS6	Rps6	RS6_MOUSE	Generic binding protein	40S ribosomal protein S6						-0.232382285	0.02116412
+Rps8	RPS8	Rps8	RS8_MOUSE	Generic binding protein	40S ribosomal protein S8						-0.227592666	0.02647891
+Rps9	RPS9	Rps9	RS9_MOUSE	Generic binding protein	40S ribosomal protein S9						-0.19573586	0.02929528
+Stau1	Staufen	Stau1	STAU1_MOUSE	Generic binding protein	Double-stranded RNA-binding protein Staufen homolog 1						-0.126410908	0.0430941
+Eif1	eIF1	Eif1	EIF1_MOUSE	Generic binding protein	Eukaryotic translation initiation factor 1						-0.23395879	0.02116412
+Eif1ax	eIF1AY	Eif1a	IF1A_MOUSE	Generic binding protein	Eukaryotic translation initiation factor 1A						-0.238321249	0.0437082
+Eif2s2	eIF2S2	Eif2s2	IF2B_MOUSE	Generic binding protein	Eukaryotic translation initiation factor 2 subunit 2						-0.299039439	0.02929528
+Eif3f	eIF3S5	Eif3f	EIF3F_MOUSE	Generic binding protein	Eukaryotic translation initiation factor 3 subunit F						-0.2485588	0.03342828
+Eif4e	eIF4E	Eif4e	IF4E_MOUSE	Generic binding protein	Eukaryotic translation initiation factor 4E						-0.249248502	0.0332951

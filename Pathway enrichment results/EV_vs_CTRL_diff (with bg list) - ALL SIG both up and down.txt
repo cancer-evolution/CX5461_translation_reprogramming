@@ -1,0 +1,33 @@
+Networks	Total	pValue	Min FDR	p-value	FDR	In Data	"Network Objects from Active Data"
+Translation_Translation initiation	145	1.145E-09	3.664E-08	1.145E-09	3.664E-08	10	eIF3S5, RPL17, RPS3A, RPL27A, RPL30, RPS6, Staufen, RPS24, RPL23, RPS19
+Translation_Elongation-Termination	132	2.196E-07	3.513E-06	2.196E-07	3.513E-06	8	RPL17, RPS3A, RPL27A, RPL30, RPS6, RPS24, RPL23, RPS19
+Autophagy_Autophagy	47	2.578E-02	2.489E-01	2.578E-02	2.489E-01	2	TLR8, TRIF (TICAM1)
+Immune response_Innate immune response to RNA viral infection 	52	3.111E-02	2.489E-01	3.111E-02	2.489E-01	2	TLR8, TRIF (TICAM1)
+Transport_Sodium transport	78	6.480E-02	3.534E-01	6.480E-02	3.534E-01	2	SGK1, SCN4A(SkM1)
+Inflammation_Inflammasome	79	6.627E-02	3.534E-01	6.627E-02	3.534E-01	2	TLR8, TRIF (TICAM1)
+Cytoskeleton_Cytoplasmic microtubules	91	8.475E-02	3.874E-01	8.475E-02	3.874E-01	2	HOOK1, DLC2 (Dynein LC8b)
+Development_ERK5 in cell proliferation and neuronal survival	23	1.168E-01	4.673E-01	1.168E-01	4.673E-01	1	SGK1
+Development_Regulation of telomere length	42	2.034E-01	5.560E-01	2.034E-01	5.560E-01	1	Staufen
+Translation_Selenium pathway	44	2.120E-01	5.560E-01	2.120E-01	5.560E-01	1	RPL30
+Neurophysiological process_GABAergic neurotransmission	45	2.163E-01	5.560E-01	2.163E-01	5.560E-01	1	ATF-5
+Blood coagulation	49	2.331E-01	5.560E-01	2.331E-01	5.560E-01	1	PL scramblase 1
+Muscle contraction_Nitric oxide signaling in the cardiovascular system	58	2.699E-01	5.560E-01	2.699E-01	5.560E-01	1	PRKAR2A
+Signal transduction_Insulin signaling	69	3.125E-01	5.560E-01	3.125E-01	5.560E-01	1	RPS6
+Neurophysiological process_Transmission of nerve impulse	73	3.274E-01	5.560E-01	3.274E-01	5.560E-01	1	PRKAR2A
+Muscle contraction	74	3.311E-01	5.560E-01	3.311E-01	5.560E-01	1	SCN4A(SkM1)
+Inflammation_Kallikrein-kinin system	77	3.420E-01	5.560E-01	3.420E-01	5.560E-01	1	DPP4
+Proteolysis_Connective tissue degradation	79	3.492E-01	5.560E-01	3.492E-01	5.560E-01	1	DPP4
+Transport_Calcium transport	85	3.703E-01	5.560E-01	3.703E-01	5.560E-01	1	TRPM1
+Cytoskeleton_Spindle microtubules	87	3.772E-01	5.560E-01	3.772E-01	5.560E-01	1	HOOK1
+Development_Skeletal muscle development	90	3.873E-01	5.560E-01	3.873E-01	5.560E-01	1	SCN4A(SkM1)
+Immune response_T helper cell differentiation	90	3.873E-01	5.560E-01	3.873E-01	5.560E-01	1	TLR8
+Translation_Regulation of initiation	97	4.105E-01	5.560E-01	4.105E-01	5.560E-01	1	eIF3S5
+Reproduction_FSH-beta signaling pathway	99	4.170E-01	5.560E-01	4.170E-01	5.560E-01	1	RPS6
+Inflammation_Innate inflammatory response	105	4.360E-01	5.580E-01	4.360E-01	5.580E-01	1	TRIF (TICAM1)
+Signal transduction_WNT signaling	118	4.751E-01	5.847E-01	4.751E-01	5.847E-01	1	PRKAR2A
+Immune response_Phagocytosis	132	5.143E-01	5.937E-01	5.143E-01	5.937E-01	1	MANR
+Apoptosis_Apoptotic nucleus	134	5.197E-01	5.937E-01	5.197E-01	5.937E-01	1	SGK1
+Cell cycle_Mitosis	144	5.457E-01	5.937E-01	5.457E-01	5.937E-01	1	GAPCENA
+Reproduction_Male sex differentiation	156	5.751E-01	5.937E-01	5.751E-01	5.937E-01	1	HOOK1
+Development_Hedgehog signaling	156	5.751E-01	5.937E-01	5.751E-01	5.937E-01	1	PRKAR2A
+Signal transduction_NOTCH signaling	176	6.202E-01	6.202E-01	6.202E-01	6.202E-01	1	RPS6

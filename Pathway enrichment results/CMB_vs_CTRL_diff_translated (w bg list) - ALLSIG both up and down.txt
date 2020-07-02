@@ -1,0 +1,51 @@
+Networks	Total	pValue	Min FDR	p-value	FDR	In Data	"Network Objects from Active Data"
+Translation_Translation initiation	146	6.779E-11	1.024E-08	6.779E-11	1.024E-08	31	RPS19, RPS13, RPL22, RPL26, RPS3A, eIF1AY, RPS8, RPL27A, RPS6, RPS21, RPL23, eIF3S5, RPL6, RPL30, RPL35, eIF2S2, eIF1, RPL11, RPL17, RPS18, Staufen, RPL34, RPL37, RPS9, eIF4E, RPS15a, RPL24, RPS25, RPS16, RPL35a, RPL14
+Translation_Elongation-Termination	133	1.496E-10	1.129E-08	1.496E-10	1.129E-08	29	RPS19, RPS13, RPL22, RPL26, RPS3A, eIF1AY, RPS8, SKIV2L, ValRS2, eEF1A1, RPL27A, RPS6, RPS21, RPL23, RPL6, RPL30, RPL35, RPL11, RPL17, RPS18, RPL34, RPL37, RPS9, RPS15a, RPL24, RPS25, RPS16, RPL35a, RPL14
+Cytoskeleton_Regulation of cytoskeleton rearrangement	132	7.740E-03	3.896E-01	7.740E-03	3.896E-01	15	TESK2, Alpha-fodrin, PTEN, FGD2, RAP-1A, 14-3-3 gamma, 14-3-3 beta/alpha, 14-3-3 epsilon, Filamin B (TABP), ARPC3, ECT2, PDZ-RhoGEF, Nebulin, Myosin IXb, 14-3-3 eta
+Protein folding_Folding in normal condition	95	1.866E-02	7.045E-01	1.866E-02	7.045E-01	11	CABIN1, ERO1Lalpha, DNAJB11, MM-1, VBP-1, FKBP12, HSP10 (mitochondrial), GRPE2, Hdj-2, p23 co-chaperone, DNAJA3 (TID1)
+Cell cycle_G1-S	137	2.359E-02	7.054E-01	2.359E-02	7.054E-01	14	c-Abl, Cyclin D2, LATS2, 14-3-3 gamma, Karyopherin alpha 4, 14-3-3 beta/alpha, GAS1, Tuberin, Emi1, 14-3-3 epsilon, 14-3-3 sigma, Karyopherin alpha 1, MAT1, 14-3-3 eta
+Inflammation_IL-6 signaling	76	2.803E-02	7.054E-01	2.803E-02	7.054E-01	9	ITGA2B, 14-3-3 gamma, 14-3-3 beta/alpha, Tuberin, 14-3-3 epsilon, 14-3-3 sigma, Elk-1, SOCS3, 14-3-3 eta
+Cell cycle_Meiosis	66	3.303E-02	7.124E-01	3.303E-02	7.124E-01	8	14-3-3 gamma, 14-3-3 beta/alpha, 14-3-3 epsilon, Myelin basic protein, MSH5, 14-3-3 sigma, Separase, 14-3-3 eta
+Development_Regulation of telomere length	42	8.913E-02	9.950E-01	8.913E-02	9.950E-01	5	RPL22, hnRNP A1, Staufen, TEP1, p23 co-chaperone
+DNA damage_Checkpoint	100	1.163E-01	9.950E-01	1.163E-01	9.950E-01	9	c-Abl, Cyclin D2, p38alpha (MAPK14), 14-3-3 gamma, 14-3-3 beta/alpha, 14-3-3 epsilon, 14-3-3 sigma, Separase, 14-3-3 eta
+Neurophysiological process_Corticoliberin signaling	22	1.278E-01	9.950E-01	1.278E-01	9.950E-01	3	RAP-1A, GRK6, Elk-1
+Autophagy_Autophagy	47	1.284E-01	9.950E-01	1.284E-01	9.950E-01	5	PTEN, Tuberin, TRAM, ATG13, ULK1
+Reproduction_Feeding and Neurohormone signaling 	120	1.466E-01	9.950E-01	1.466E-01	9.950E-01	10	Cyclin D2, IL11RA, 14-3-3 gamma, Tuberin, PKC-epsilon, LAMG1, Elk-1, eIF4E, GHR, RPL14
+Cytoskeleton_Actin filaments	121	1.523E-01	9.950E-01	1.523E-01	9.950E-01	10	c-Abl, TESK2, Alpha-fodrin, Filamin B (TABP), ARPC3, Myosin VIIA, Nebulin, Myosin IXb, Tropomyosin-4, LIMK2
+Transport_Sodium transport	78	1.563E-01	9.950E-01	1.563E-01	9.950E-01	7	Connexin 37, SCN4A(SkM1), SERT, SGK1, ASCT2 (SLC1A5), TRPM4, SLC13A1
+Apoptosis_Anti-Apoptosis mediated by external signals by Estrogen	52	1.741E-01	9.950E-01	1.741E-01	9.950E-01	5	p38alpha (MAPK14), PKC-epsilon, 14-3-3 sigma, Elk-1, gp91-phox
+Development_Neurogenesis_Axonal guidance	155	1.742E-01	9.950E-01	1.742E-01	9.950E-01	12	c-Abl, Plexin B2, RAP-1A, Reelin, Elk-1, Ephrin-A receptor 2, PDZ-RhoGEF, Selenoprotein P, LIMK2, ROBO2, Plexin B1, 14-3-3 eta
+Inflammation_TREM1 signaling	95	1.744E-01	9.950E-01	1.744E-01	9.950E-01	8	p38alpha (MAPK14), 14-3-3 gamma, 14-3-3 epsilon, 14-3-3 sigma, Elk-1, CD40(TNFRSF5), CD14, 14-3-3 eta
+Cell adhesion_Cell junctions	96	1.815E-01	9.950E-01	1.815E-01	9.950E-01	8	Alpha-fodrin, PKC-zeta, PTEN, Connexin 37, 14-3-3 epsilon, ARVCF, JAM3, 14-3-3 eta
+Reproduction_FSH-beta signaling pathway	99	2.036E-01	9.950E-01	2.036E-01	9.950E-01	8	ALK-4, Cyclin D2, p38alpha (MAPK14), GRK6, Tuberin, RPS6, eIF4E, ActRIIB
+Cytoskeleton_Intermediate filaments	41	2.050E-01	9.950E-01	2.050E-01	9.950E-01	4	14-3-3 gamma, Lamin A/C, 14-3-3 eta, Nesprin 1
+Apoptosis_Death Domain receptors & caspases in apoptosis	102	2.267E-01	9.950E-01	2.267E-01	9.950E-01	8	CD27(TNFRSF7), NKp46, NAIP, DAP1, Huntingtin, CD40(TNFRSF5), DEDD2, TNF-beta
+Apoptosis_Apoptotic nucleus	134	2.352E-01	9.950E-01	2.352E-01	9.950E-01	10	c-Abl, Cullin 2, iASPP, Tyk2, DAPK2, SGK1, NUMA1, Separase, DNASE1L3, Lamin A/C
+Inflammation_IL-10 anti-inflammatory response	58	2.358E-01	9.950E-01	2.358E-01	9.950E-01	5	Cyclin D2, p38alpha (MAPK14), Tyk2, SOCS3, Nucleolysin TIAR
+Immune response_T helper cell differentiation	90	2.543E-01	9.950E-01	2.543E-01	9.950E-01	7	p38alpha (MAPK14), Tyk2, Elk-1, CD40(TNFRSF5), PKC-theta, TNF-beta, CD14
+Development_Skeletal muscle development	90	2.543E-01	9.950E-01	2.543E-01	9.950E-01	7	SCN4A(SkM1), HDAC9, COL5A3, Filamin B (TABP), Nebulin, Tropomyosin-4, Lamin A/C
+Transport_Synaptic vesicle exocytosis	75	2.568E-01	9.950E-01	2.568E-01	9.950E-01	6	SERT, Dynamin-1, Annexin IV, RIMS3, Bassoon, BIG2
+Transport_Potassium transport	76	2.667E-01	9.950E-01	2.667E-01	9.950E-01	6	Connexin 37, SERT, SK4/IK1, KCNH8, TRPM4, KCNH4
+Inflammation_Kallikrein-kinin system	77	2.766E-01	9.950E-01	2.766E-01	9.950E-01	6	p38alpha (MAPK14), Tyk2, PKC-epsilon, ACE1, Elk-1, Kallikrein 2
+Inflammation_IL-2 signaling	62	2.798E-01	9.950E-01	2.798E-01	9.950E-01	5	Cyclin D2, PTEN, BFL1, PKC-epsilon, Elk-1
+Apoptosis_Apoptotic mitochondria	62	2.798E-01	9.950E-01	2.798E-01	9.950E-01	5	BOK, 14-3-3 gamma, BFL1, GADD34, 14-3-3 eta
+Cell adhesion_Attractive and repulsive receptors	126	2.931E-01	9.950E-01	2.931E-01	9.950E-01	9	c-Abl, Plexin B2, Collagen XIII, RAP-1A, Ephrin-A receptor 2, PDZ-RhoGEF, LIMK2, ROBO2, Plexin B1
+Inflammation_IL-13 signaling pathway	48	2.937E-01	9.950E-01	2.937E-01	9.950E-01	4	PKC-zeta, Tyk2, PKC-epsilon, Elk-1
+Development_Neuromuscular junction	80	3.069E-01	9.950E-01	3.069E-01	9.950E-01	6	c-Abl, 14-3-3 gamma, LAMG1, Elk-1, DVL-1, LAMB2
+Cell cycle_Mitosis	144	3.082E-01	9.950E-01	3.082E-01	9.950E-01	10	14-3-3 gamma, Karyopherin alpha 4, Dynamin-1, CENP-B, NUMA1, Karyopherin alpha 1, DCTN5, HDAC6, Separase, 14-3-3 eta
+Cell adhesion_Cell-matrix interactions	130	3.254E-01	9.950E-01	3.254E-01	9.950E-01	9	ITGA2B, Collagen XIII, EMILIN-2, COL5A3, LAMB1, LAMG1, Fibulin-2, LAMB2, COL5A1
+Neurophysiological process_Taste signaling	7	3.380E-01	9.950E-01	3.380E-01	9.950E-01	1	IP3R3
+Apoptosis_Anti-Apoptosis mediated by external signals via MAPK and JAK/STAT	116	3.444E-01	9.950E-01	3.444E-01	9.950E-01	8	JunB, PKC-zeta, Tyk2, BFL1, PKC-epsilon, Elk-1, SOCS3, FLT3
+Signal transduction_ERBB-family signaling	52	3.466E-01	9.950E-01	3.466E-01	9.950E-01	4	PTEN, PKC-epsilon, Elk-1, PKC-theta
+Proliferation_Lymphocyte proliferation	149	3.466E-01	9.950E-01	3.466E-01	9.950E-01	10	Cyclin D2, CD27(TNFRSF7), p38alpha (MAPK14), GRAP2, Tyk2, CD3 epsilon, CD40(TNFRSF5), PKC-theta, TNF-beta, CD5
+Transport_Calcium transport	85	3.585E-01	9.950E-01	3.585E-01	9.950E-01	6	CACNB1, PRG2, Polycystin, Ca-ATPase3, TRPM1, REM1
+Cardiac development_FGF_ErbB signaling	85	3.585E-01	9.950E-01	3.585E-01	9.950E-01	6	Polycystin, Tuberin, 14-3-3 epsilon, PKC-epsilon, PKC-mu, RXRB
+Development_ERK5 in cell proliferation and neuronal survival	23	3.821E-01	9.950E-01	3.821E-01	9.950E-01	2	PKC-zeta, SGK1
+Development_Ossification and bone remodeling	88	3.898E-01	9.950E-01	3.898E-01	9.950E-01	6	TLL1, Ski, Lef-1, YAP1 (YAp65), ActRIIB, GHR
+Inflammation_Innate inflammatory response	105	3.943E-01	9.950E-01	3.943E-01	9.950E-01	7	PKC-zeta, p38alpha (MAPK14), TRAM, PKC-theta, sCD14, IP3R3, CD14
+Development_Hemopoiesis, Erythropoietin pathway	89	4.003E-01	9.950E-01	4.003E-01	9.950E-01	6	Cyclin D2, RAP-1A, p38alpha (MAPK14), PKC-epsilon, Elk-1, SOCS3
+Reproduction_Male sex differentiation	156	4.016E-01	9.950E-01	4.016E-01	9.950E-01	10	TESK2, Cyclin D2, CD27(TNFRSF7), PKC-zeta, TLE3, p38alpha (MAPK14), HSPA1L, Selenoprotein P, STK39, Lamin A/C
+Muscle contraction_Relaxin signaling	40	4.032E-01	9.950E-01	4.032E-01	9.950E-01	3	PKC-zeta, RAP-1A, PDE4C
+Inflammation_IL-4 signaling	74	4.180E-01	9.950E-01	4.180E-01	9.950E-01	5	c-Abl, PTEN, PRG2, Elk-1, CD40(TNFRSF5)
+Cell adhesion_Cadherins	125	4.242E-01	9.950E-01	4.242E-01	9.950E-01	8	c-Abl, PTEN, RAP-1A, FRAT1, ARVCF, Ski, Reelin, ACP1
+Signal Transduction_TGF-beta, GDF and Activin signaling	109	4.326E-01	9.950E-01	4.326E-01	9.950E-01	7	ALK-4, Cyclin D2, NOTCH4 (ICD4), NOTCH4, Ski, Lef-1, ActRIIB

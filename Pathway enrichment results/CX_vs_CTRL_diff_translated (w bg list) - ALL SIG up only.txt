@@ -1,0 +1,51 @@
+Networks	Total	pValue	Min FDR	p-value	FDR	In Data	"Network Objects from Active Data"
+Transcription_mRNA processing	160	1.863E-03	1.733E-01	1.863E-03	1.733E-01	5	Poly(A) polymerase, ZNF162, LSM3, GRSF1, FBP21
+Development_ERK5 in cell proliferation and neuronal survival	24	7.833E-03	3.642E-01	7.833E-03	3.642E-01	2	SGK1, PKC-lambda/iota
+Signal Transduction_Cholecystokinin signaling	106	2.118E-02	6.566E-01	2.118E-02	6.566E-01	3	CCR3, Galpha(q)-specific peptide GPCRs, Calmodulin
+Cell cycle_G0-G1	71	5.982E-02	7.442E-01	5.982E-02	7.442E-01	2	E2F6, E2F5
+Signal transduction_ESR2 pathway	77	6.898E-02	7.442E-01	6.898E-02	7.442E-01	2	Calmodulin, DAM1
+Muscle contraction	173	7.214E-02	7.442E-01	7.214E-02	7.442E-01	3	Galpha(q)-specific peptide GPCRs, Calmodulin, PKC
+Immune response_TCR signaling	174	7.313E-02	7.442E-01	7.313E-02	7.442E-01	3	MEK4(MAP2K4), Calmodulin, MKK4/7
+Cell adhesion_Leucocyte chemotaxis	180	7.919E-02	7.442E-01	7.919E-02	7.442E-01	3	CCR3, Galpha(q)-specific peptide GPCRs, Calmodulin
+Signal transduction_Oxytocin signaling	86	8.353E-02	7.442E-01	8.353E-02	7.442E-01	2	Calmodulin, PKC
+Apoptosis_Endoplasmic reticulum stress pathway	89	8.857E-02	7.442E-01	8.857E-02	7.442E-01	2	MEK4(MAP2K4), C/EBP zeta
+Cell cycle_G1-S Growth factor regulation	195	9.527E-02	7.442E-01	9.527E-02	7.442E-01	3	MEK4(MAP2K4), MKK4/7, PKC
+Neurophysiological process_Olfactory transduction	19	1.015E-01	7.442E-01	1.015E-01	7.442E-01	1	Calmodulin
+Cell cycle_G2-M	206	1.079E-01	7.442E-01	1.079E-01	7.442E-01	3	Cyclin G, Cyclin G2, ZAK
+Reproduction_Feeding and Neurohormone signaling 	210	1.126E-01	7.442E-01	1.126E-01	7.442E-01	3	Galpha(q)-specific peptide GPCRs, Calmodulin, PTPN2
+Cell adhesion_Integrin priming	110	1.262E-01	7.442E-01	1.262E-01	7.442E-01	2	Calmodulin, Cytohesin3
+Inflammation_IgE signaling	137	1.789E-01	7.442E-01	1.789E-01	7.442E-01	2	Calmodulin, MKK4/7
+Chemotaxis	137	1.789E-01	7.442E-01	1.789E-01	7.442E-01	2	CCR3, Galpha(q)-specific peptide GPCRs
+Immune response_T helper cell differentiation	139	1.829E-01	7.442E-01	1.829E-01	7.442E-01	2	MEK4(MAP2K4), Calmodulin
+Inflammation_MIF signaling	140	1.849E-01	7.442E-01	1.849E-01	7.442E-01	2	PHAP1 (pp32), PKC
+Cell cycle_S phase	149	2.033E-01	7.442E-01	2.033E-01	7.442E-01	2	PDS5, ZAK
+Signal Transduction_TGF-beta, GDF and Activin signaling	154	2.136E-01	7.442E-01	2.136E-01	7.442E-01	2	Calmodulin, PKC
+Neurophysiological process_Melatonin signaling	43	2.154E-01	7.442E-01	2.154E-01	7.442E-01	1	Calmodulin
+Signal transduction_Neuropeptide signaling pathways	155	2.157E-01	7.442E-01	2.157E-01	7.442E-01	2	Galpha(q)-specific peptide GPCRs, Calmodulin
+Apoptosis_Apoptotic nucleus	159	2.239E-01	7.442E-01	2.239E-01	7.442E-01	2	SGK1, PHAP1 (pp32)
+Reproduction_FSH-beta signaling pathway	160	2.260E-01	7.442E-01	2.260E-01	7.442E-01	2	DUSP5, Calmodulin
+Neurophysiological process_Corticoliberin signaling	49	2.416E-01	7.442E-01	2.416E-01	7.442E-01	1	Calmodulin
+Development_Regulation of telomere length	53	2.586E-01	7.442E-01	2.586E-01	7.442E-01	1	TRF2
+Signal transduction_WNT signaling	177	2.615E-01	7.442E-01	2.615E-01	7.442E-01	2	MEK4(MAP2K4), Calmodulin
+Autophagy_Autophagy	55	2.670E-01	7.442E-01	2.670E-01	7.442E-01	1	TRAM
+Cytoskeleton_Regulation of cytoskeleton rearrangement	183	2.741E-01	7.442E-01	2.741E-01	7.442E-01	2	PKC-lambda/iota, PKC
+Development_Keratinocyte differentiation	58	2.793E-01	7.442E-01	2.793E-01	7.442E-01	1	MEK4(MAP2K4)
+Reproduction_Gonadotropin regulation	200	3.097E-01	7.442E-01	3.097E-01	7.442E-01	2	MEK4(MAP2K4), Calmodulin
+Proliferation_Lymphocyte proliferation	210	3.305E-01	7.442E-01	3.305E-01	7.442E-01	2	MEK4(MAP2K4), Calmodulin
+Reproduction_Progesterone signaling	214	3.388E-01	7.442E-01	3.388E-01	7.442E-01	2	Galpha(q)-specific peptide GPCRs, Calmodulin
+Signal transduction_ERBB-family signaling	75	3.456E-01	7.442E-01	3.456E-01	7.442E-01	1	MEK4(MAP2K4)
+Neurophysiological process_Circadian rhythm	76	3.493E-01	7.442E-01	3.493E-01	7.442E-01	1	Calmodulin
+Proliferation_Positive regulation cell proliferation	221	3.532E-01	7.442E-01	3.532E-01	7.442E-01	2	MEK4(MAP2K4), CCR3
+Development_Regulation of angiogenesis	222	3.553E-01	7.442E-01	3.553E-01	7.442E-01	2	Galpha(q)-specific peptide GPCRs, PKC
+Development_Blood  vessel morphogenesis	228	3.675E-01	7.442E-01	3.675E-01	7.442E-01	2	MEK4(MAP2K4), Galpha(q)-specific peptide GPCRs
+Reproduction_Spermatogenesis, motility and copulation	228	3.675E-01	7.442E-01	3.675E-01	7.442E-01	2	Calmodulin, PKC
+Neurophysiological process_Long-term potentiation	82	3.712E-01	7.442E-01	3.712E-01	7.442E-01	1	Calmodulin
+Signal transduction_NOTCH signaling	235	3.818E-01	7.442E-01	3.818E-01	7.442E-01	2	MEK4(MAP2K4), TCF12
+Signal transduction_Nitric oxide signaling	88	3.923E-01	7.442E-01	3.923E-01	7.442E-01	1	Calmodulin
+Reproduction_Male sex differentiation	243	3.979E-01	7.442E-01	3.979E-01	7.442E-01	2	Calmodulin, PKC
+Inflammation_IL-13 signaling pathway	91	4.026E-01	7.442E-01	4.026E-01	7.442E-01	1	Calmodulin
+Apoptosis_Anti-Apoptosis mediated by external signals by Estrogen	95	4.161E-01	7.442E-01	4.161E-01	7.442E-01	1	MEK4(MAP2K4)
+Inflammation_IFN-gamma signaling	109	4.609E-01	7.442E-01	4.609E-01	7.442E-01	1	Calmodulin
+Cell cycle_Core	115	4.791E-01	7.442E-01	4.791E-01	7.442E-01	1	E2F5
+Neurophysiological process_Visual perception	117	4.850E-01	7.442E-01	4.850E-01	7.442E-01	1	Calmodulin
+Inflammation_Inflammasome	118	4.879E-01	7.442E-01	4.879E-01	7.442E-01	1	TRAM

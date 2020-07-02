@@ -1,0 +1,22 @@
+Networks	Total	pValue	Min FDR	p-value	FDR	In Data	"Network Objects from Active Data"
+Translation_Translation initiation	145	9.807E-12	2.059E-10	9.807E-12	2.059E-10	10	RPL30, eIF3S5, RPS6, RPL17, Staufen, RPS24, RPS3A, RPL23, RPS19, RPL27A
+Translation_Elongation-Termination	132	6.905E-09	7.251E-08	6.905E-09	7.251E-08	8	RPL30, RPS6, RPL17, RPS24, RPS3A, RPL23, RPS19, RPL27A
+Cytoskeleton_Cytoplasmic microtubules	91	4.419E-02	3.093E-01	4.419E-02	3.093E-01	2	DLC2 (Dynein LC8b), HOOK1
+Development_Regulation of telomere length	42	1.461E-01	4.309E-01	1.461E-01	4.309E-01	1	Staufen
+Translation_Selenium pathway	44	1.526E-01	4.309E-01	1.526E-01	4.309E-01	1	RPL30
+Neurophysiological process_GABAergic neurotransmission	45	1.558E-01	4.309E-01	1.558E-01	4.309E-01	1	ATF-5
+Autophagy_Autophagy	47	1.621E-01	4.309E-01	1.621E-01	4.309E-01	1	TRIF (TICAM1)
+Immune response_Innate immune response to RNA viral infection 	52	1.779E-01	4.309E-01	1.779E-01	4.309E-01	1	TRIF (TICAM1)
+Muscle contraction_Nitric oxide signaling in the cardiovascular system	58	1.963E-01	4.309E-01	1.963E-01	4.309E-01	1	PRKAR2A
+Signal transduction_Insulin signaling	69	2.292E-01	4.309E-01	2.292E-01	4.309E-01	1	RPS6
+Neurophysiological process_Transmission of nerve impulse	73	2.409E-01	4.309E-01	2.409E-01	4.309E-01	1	PRKAR2A
+Inflammation_Inflammasome	79	2.581E-01	4.309E-01	2.581E-01	4.309E-01	1	TRIF (TICAM1)
+Cytoskeleton_Spindle microtubules	87	2.804E-01	4.309E-01	2.804E-01	4.309E-01	1	HOOK1
+Translation_Regulation of initiation	97	3.074E-01	4.309E-01	3.074E-01	4.309E-01	1	eIF3S5
+Reproduction_FSH-beta signaling pathway	99	3.127E-01	4.309E-01	3.127E-01	4.309E-01	1	RPS6
+Inflammation_Innate inflammatory response	105	3.283E-01	4.309E-01	3.283E-01	4.309E-01	1	TRIF (TICAM1)
+Signal transduction_WNT signaling	118	3.610E-01	4.460E-01	3.610E-01	4.460E-01	1	PRKAR2A
+Cell cycle_Mitosis	144	4.221E-01	4.708E-01	4.221E-01	4.708E-01	1	GAPCENA
+Reproduction_Male sex differentiation	156	4.484E-01	4.708E-01	4.484E-01	4.708E-01	1	HOOK1
+Development_Hedgehog signaling	156	4.484E-01	4.708E-01	4.484E-01	4.708E-01	1	PRKAR2A
+Signal transduction_NOTCH signaling	176	4.897E-01	4.897E-01	4.897E-01	4.897E-01	1	RPS6

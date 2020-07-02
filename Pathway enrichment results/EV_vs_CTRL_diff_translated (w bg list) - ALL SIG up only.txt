@@ -1,0 +1,15 @@
+Networks	Total	pValue	Min FDR	p-value	FDR	In Data	"Network Objects from Active Data"
+Transport_Sodium transport	78	6.484E-03	9.077E-02	6.484E-03	9.077E-02	2	SGK1, SCN4A(SkM1)
+Development_ERK5 in cell proliferation and neuronal survival	23	3.702E-02	1.613E-01	3.702E-02	1.613E-01	1	SGK1
+Autophagy_Autophagy	47	7.440E-02	1.613E-01	7.440E-02	1.613E-01	1	TLR8
+Blood coagulation	49	7.746E-02	1.613E-01	7.746E-02	1.613E-01	1	PL scramblase 1
+Immune response_Innate immune response to RNA viral infection 	52	8.203E-02	1.613E-01	8.203E-02	1.613E-01	1	TLR8
+Muscle contraction	74	1.150E-01	1.613E-01	1.150E-01	1.613E-01	1	SCN4A(SkM1)
+Inflammation_Kallikrein-kinin system	77	1.194E-01	1.613E-01	1.194E-01	1.613E-01	1	DPP4
+Proteolysis_Connective tissue degradation	79	1.223E-01	1.613E-01	1.223E-01	1.613E-01	1	DPP4
+Inflammation_Inflammasome	79	1.223E-01	1.613E-01	1.223E-01	1.613E-01	1	TLR8
+Transport_Calcium transport	85	1.310E-01	1.613E-01	1.310E-01	1.613E-01	1	TRPM1
+Development_Skeletal muscle development	90	1.383E-01	1.613E-01	1.383E-01	1.613E-01	1	SCN4A(SkM1)
+Immune response_T helper cell differentiation	90	1.383E-01	1.613E-01	1.383E-01	1.613E-01	1	TLR8
+Immune response_Phagocytosis	132	1.970E-01	1.997E-01	1.970E-01	1.997E-01	1	MANR
+Apoptosis_Apoptotic nucleus	134	1.997E-01	1.997E-01	1.997E-01	1.997E-01	1	SGK1

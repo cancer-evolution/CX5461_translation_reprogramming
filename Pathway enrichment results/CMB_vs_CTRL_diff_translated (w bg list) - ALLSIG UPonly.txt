@@ -1,0 +1,51 @@
+Networks	Total	pValue	Min FDR	p-value	FDR	In Data	"Network Objects from Active Data"
+Autophagy_Autophagy	47	8.871E-03	6.014E-01	8.871E-03	6.014E-01	5	TRAM, PTEN, Tuberin, ATG13, ULK1
+Cell adhesion_Cell-matrix interactions	130	9.043E-03	6.014E-01	9.043E-03	6.014E-01	9	Fibulin-2, ITGA2B, Collagen XIII, EMILIN-2, LAMB2, COL5A3, LAMB1, COL5A1, LAMG1
+Cytoskeleton_Actin filaments	121	1.761E-02	6.547E-01	1.761E-02	6.547E-01	8	c-Abl, TESK2, Alpha-fodrin, Myosin VIIA, Nebulin, Myosin IXb, LIMK2, Filamin B (TABP)
+Transport_Sodium transport	78	1.969E-02	6.547E-01	1.969E-02	6.547E-01	6	ASCT2 (SLC1A5), TRPM4, SCN4A(SkM1), SERT, SLC13A1, SGK1
+Cytoskeleton_Regulation of cytoskeleton rearrangement	132	2.809E-02	6.928E-01	2.809E-02	6.928E-01	8	TESK2, Alpha-fodrin, PTEN, FGD2, PDZ-RhoGEF, Nebulin, Myosin IXb, Filamin B (TABP)
+Apoptosis_Anti-Apoptosis mediated by external signals via MAPK and JAK/STAT	116	3.971E-02	6.928E-01	3.971E-02	6.928E-01	7	JunB, Elk-1, PKC-zeta, SOCS3, Tyk2, FLT3, PKC-epsilon
+Inflammation_IL-13 signaling pathway	48	4.197E-02	6.928E-01	4.197E-02	6.928E-01	4	Elk-1, PKC-zeta, Tyk2, PKC-epsilon
+Transport_Synaptic vesicle exocytosis	75	5.456E-02	6.928E-01	5.456E-02	6.928E-01	5	RIMS3, SERT, Dynamin-1, Bassoon, BIG2
+Inflammation_IL-6 signaling	76	5.717E-02	6.928E-01	5.717E-02	6.928E-01	5	ITGA2B, Elk-1, SOCS3, Tuberin, 14-3-3 sigma
+Transport_Potassium transport	76	5.717E-02	6.928E-01	5.717E-02	6.928E-01	5	KCNH8, TRPM4, KCNH4, SERT, SK4/IK1
+Cell adhesion_Attractive and repulsive receptors	126	5.757E-02	6.928E-01	5.757E-02	6.928E-01	7	c-Abl, Plexin B2, Ephrin-A receptor 2, PDZ-RhoGEF, Collagen XIII, LIMK2, Plexin B1
+Development_Neurogenesis_Axonal guidance	155	6.251E-02	6.928E-01	6.251E-02	6.928E-01	8	c-Abl, Plexin B2, Reelin, Elk-1, Ephrin-A receptor 2, PDZ-RhoGEF, LIMK2, Plexin B1
+Development_Neuromuscular junction	80	6.832E-02	6.989E-01	6.832E-02	6.989E-01	5	c-Abl, Elk-1, DVL-1, LAMB2, LAMG1
+Apoptosis_Apoptotic nucleus	134	7.498E-02	7.123E-01	7.498E-02	7.123E-01	7	NUMA1, c-Abl, iASPP, Tyk2, Separase, SGK1, Lamin A/C
+Cardiac development_FGF_ErbB signaling	85	8.383E-02	7.433E-01	8.383E-02	7.433E-01	5	Polycystin, Tuberin, PKC-epsilon, PKC-mu, RXRB
+Development_Skeletal muscle development	90	1.011E-01	8.400E-01	1.011E-01	8.400E-01	5	Nebulin, SCN4A(SkM1), COL5A3, Filamin B (TABP), Lamin A/C
+Neurophysiological process_Corticoliberin signaling	22	1.216E-01	8.704E-01	1.216E-01	8.704E-01	2	Elk-1, GRK6
+Development_ERK5 in cell proliferation and neuronal survival	23	1.309E-01	8.704E-01	1.309E-01	8.704E-01	2	PKC-zeta, SGK1
+DNA damage_MMR repair	48	1.448E-01	8.704E-01	1.448E-01	8.704E-01	3	c-Abl, DNA polymerase iota, MSH5
+Cardiac development_BMP_TGF_beta_signaling	75	1.509E-01	8.704E-01	1.509E-01	8.704E-01	4	ALK-4, Tuberin, PKC-epsilon, ActRIIB
+Inflammation_Kallikrein-kinin system	77	1.614E-01	8.704E-01	1.614E-01	8.704E-01	4	ACE1, Elk-1, Tyk2, PKC-epsilon
+Inflammation_Innate inflammatory response	105	1.621E-01	8.704E-01	1.621E-01	8.704E-01	5	TRAM, PKC-zeta, sCD14, IP3R3, CD14
+Immune response_Th17-derived cytokines	51	1.647E-01	8.704E-01	1.647E-01	8.704E-01	3	IKBZ, SOCS3, Tyk2
+Signal transduction_ERBB-family signaling	52	1.715E-01	8.704E-01	1.715E-01	8.704E-01	3	Elk-1, PTEN, PKC-epsilon
+Apoptosis_Anti-Apoptosis mediated by external signals by Estrogen	52	1.715E-01	8.704E-01	1.715E-01	8.704E-01	3	Elk-1, PKC-epsilon, 14-3-3 sigma
+Neurophysiological process_Taste signaling	7	1.777E-01	8.704E-01	1.777E-01	8.704E-01	1	IP3R3
+Signal Transduction_TGF-beta, GDF and Activin signaling	109	1.805E-01	8.704E-01	1.805E-01	8.704E-01	5	Ski, ALK-4, NOTCH4 (ICD4), NOTCH4, ActRIIB
+Cell adhesion_Integrin-mediated cell-matrix adhesion	139	1.832E-01	8.704E-01	1.832E-01	8.704E-01	6	Fibulin-2, ITGA2B, TESK2, RhoB, LIMK2, Filamin B (TABP)
+Transport_Calcium transport	85	2.057E-01	9.237E-01	2.057E-01	9.237E-01	4	TRPM1, CACNB1, Polycystin, Ca-ATPase3
+Cell adhesion_Integrin priming	58	2.138E-01	9.237E-01	2.138E-01	9.237E-01	3	ITGA2B, PTEN, PKC-epsilon
+Cytoskeleton_Spindle microtubules	87	2.173E-01	9.237E-01	2.173E-01	9.237E-01	4	NUMA1, UNC84B, Separase, CENP-B
+Reproduction_Gonadotropin regulation	88	2.232E-01	9.237E-01	2.232E-01	9.237E-01	4	JunB, Elk-1, Dynamin-1, PKC-epsilon
+Cell adhesion_Amyloid proteins	121	2.398E-01	9.237E-01	2.398E-01	9.237E-01	5	c-Abl, NOTCH4 (ICD4), NOTCH4, LIMK2, Filamin B (TABP)
+Inflammation_IL-2 signaling	62	2.431E-01	9.237E-01	2.431E-01	9.237E-01	3	Elk-1, PTEN, PKC-epsilon
+Signal transduction_Neuropeptide signaling pathways	62	2.431E-01	9.237E-01	2.431E-01	9.237E-01	3	Elk-1, Polycystin, PKC-epsilon
+Cell adhesion_Cadherins	125	2.607E-01	9.474E-01	2.607E-01	9.474E-01	5	c-Abl, Ski, Reelin, PTEN, ARVCF
+Cell adhesion_Cell junctions	96	2.716E-01	9.474E-01	2.716E-01	9.474E-01	4	Alpha-fodrin, PKC-zeta, PTEN, ARVCF
+Cell cycle_Meiosis	66	2.730E-01	9.474E-01	2.730E-01	9.474E-01	3	Separase, MSH5, 14-3-3 sigma
+Development_EMT_Regulation of epithelial-to-mesenchymal transition	160	2.778E-01	9.474E-01	2.778E-01	9.474E-01	6	c-Abl, Elk-1, PTEN, NOTCH4, Tuberin, LIMK2
+Reproduction_FSH-beta signaling pathway	99	2.902E-01	9.509E-01	2.902E-01	9.509E-01	4	ALK-4, GRK6, Tuberin, ActRIIB
+Development_Neurogenesis_Synaptogenesis	100	2.964E-01	9.509E-01	2.964E-01	9.509E-01	4	SynGAP, Semaphorin 4G, RIMS3, Bassoon
+Muscle contraction_Relaxin signaling	40	3.022E-01	9.509E-01	3.022E-01	9.509E-01	2	PKC-zeta, PDE4C
+Cytoskeleton_Intermediate filaments	41	3.125E-01	9.509E-01	3.125E-01	9.509E-01	2	Lamin A/C, Nesprin 1
+Cell cycle_G1-S Growth factor regulation	135	3.146E-01	9.509E-01	3.146E-01	9.509E-01	5	RGL2, Ski, JunB, PKC-epsilon, ActRIIB
+Cell cycle_G1-S	137	3.256E-01	9.622E-01	3.256E-01	9.622E-01	5	c-Abl, LATS2, GAS1, Tuberin, 14-3-3 sigma
+Inflammation_IL-4 signaling	74	3.338E-01	9.652E-01	3.338E-01	9.652E-01	3	c-Abl, Elk-1, PTEN
+Cell cycle_Mitosis	144	3.643E-01	9.759E-01	3.643E-01	9.759E-01	5	NUMA1, HDAC6, Separase, Dynamin-1, CENP-B
+Cell adhesion_Glycoconjugates	84	4.095E-01	9.759E-01	4.095E-01	9.759E-01	3	Stabilin-1, Siglec-10, Fibulin-2
+Reproduction_Feeding and Neurohormone signaling 	120	4.226E-01	9.759E-01	4.226E-01	9.759E-01	4	Elk-1, Tuberin, PKC-epsilon, LAMG1
+Reproduction_Male sex differentiation	156	4.307E-01	9.759E-01	4.307E-01	9.759E-01	5	TESK2, HSPA1L, PKC-zeta, TLE3, Lamin A/C

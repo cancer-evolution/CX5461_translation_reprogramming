@@ -1,0 +1,51 @@
+Networks	Total	pValue	Min FDR	p-value	FDR	In Data	"Network Objects from Active Data"
+Translation_Translation initiation	146	3.265E-19	4.147E-17	3.265E-19	4.147E-17	31	RPS19, eIF3S5, RPL6, RPL30, RPL35, RPS13, RPL22, eIF2S2, eIF1, RPL11, RPL26, RPL17, RPS3A, RPS18, eIF1AY, Staufen, RPL34, RPL37, RPS9, RPS8, eIF4E, RPS15a, RPL24, RPS25, RPS16, RPL35a, RPL27A, RPL14, RPS6, RPS21, RPL23
+Translation_Elongation-Termination	133	3.126E-16	1.985E-14	3.126E-16	1.985E-14	27	RPS19, RPL6, RPL30, RPL35, RPS13, RPL22, RPL11, RPL26, RPL17, RPS3A, RPS18, eIF1AY, RPL34, RPL37, RPS9, RPS8, RPS15a, RPL24, RPS25, eEF1A1, RPS16, RPL35a, RPL27A, RPL14, RPS6, RPS21, RPL23
+Protein folding_Folding in normal condition	95	4.381E-04	1.855E-02	4.381E-04	1.855E-02	10	ERO1Lalpha, DNAJB11, MM-1, Hdj-2, VBP-1, p23 co-chaperone, FKBP12, DNAJA3 (TID1), HSP10 (mitochondrial), GRPE2
+Cell cycle_G1-S	137	1.952E-02	6.197E-01	1.952E-02	6.197E-01	9	Karyopherin alpha 1, Cyclin D2, 14-3-3 gamma, Karyopherin alpha 4, 14-3-3 beta/alpha, Emi1, MAT1, 14-3-3 epsilon, 14-3-3 eta
+Proliferation_Lymphocyte proliferation	149	3.160E-02	7.322E-01	3.160E-02	7.322E-01	9	Cyclin D2, CD27(TNFRSF7), p38alpha (MAPK14), CD3 epsilon, CD40(TNFRSF5), GRAP2, PKC-theta, TNF-beta, CD5
+Development_Regulation of telomere length	42	3.459E-02	7.322E-01	3.459E-02	7.322E-01	4	RPL22, hnRNP A1, Staufen, p23 co-chaperone
+Cell cycle_Meiosis	66	4.483E-02	8.133E-01	4.483E-02	8.133E-01	5	14-3-3 gamma, 14-3-3 beta/alpha, 14-3-3 epsilon, Myelin basic protein, 14-3-3 eta
+DNA damage_Checkpoint	100	7.500E-02	9.916E-01	7.500E-02	9.916E-01	6	Cyclin D2, p38alpha (MAPK14), 14-3-3 gamma, 14-3-3 beta/alpha, 14-3-3 epsilon, 14-3-3 eta
+Cytoskeleton_Regulation of cytoskeleton rearrangement	132	9.541E-02	9.916E-01	9.541E-02	9.916E-01	7	ECT2, RAP-1A, 14-3-3 gamma, 14-3-3 beta/alpha, 14-3-3 epsilon, ARPC3, 14-3-3 eta
+Immune response_TCR signaling	109	1.032E-01	9.916E-01	1.032E-01	9.916E-01	6	CD8 alpha, p38alpha (MAPK14), CD3 epsilon, GRAP2, PKC-theta, BFL1
+Apoptosis_Apoptotic mitochondria	62	1.106E-01	9.916E-01	1.106E-01	9.916E-01	4	BOK, 14-3-3 gamma, BFL1, 14-3-3 eta
+Reproduction_Feeding and Neurohormone signaling 	120	1.443E-01	9.916E-01	1.443E-01	9.916E-01	6	Cyclin D2, 14-3-3 gamma, IL11RA, eIF4E, GHR, RPL14
+Inflammation_TREM1 signaling	95	1.499E-01	9.916E-01	1.499E-01	9.916E-01	5	p38alpha (MAPK14), 14-3-3 gamma, CD40(TNFRSF5), 14-3-3 epsilon, 14-3-3 eta
+Inflammation_IFN-gamma signaling	73	1.697E-01	9.916E-01	1.697E-01	9.916E-01	4	PACT, RAP-1A, eIF2S2, IFI16
+Apoptosis_Death Domain receptors & caspases in apoptosis	102	1.842E-01	9.916E-01	1.842E-01	9.916E-01	5	CD27(TNFRSF7), DAP1, CD40(TNFRSF5), TNF-beta, NKp46
+Inflammation_IL-6 signaling	76	1.875E-01	9.916E-01	1.875E-01	9.916E-01	4	14-3-3 gamma, 14-3-3 beta/alpha, 14-3-3 epsilon, 14-3-3 eta
+Cell cycle_G2-M	163	2.079E-01	9.916E-01	2.079E-01	9.916E-01	7	p38alpha (MAPK14), 14-3-3 gamma, 14-3-3 beta/alpha, Emi1, MAT1, 14-3-3 epsilon, 14-3-3 eta
+Protein folding_ER and cytoplasm	29	2.118E-01	9.916E-01	2.118E-01	9.916E-01	2	FKBP2, ERO1Lalpha
+Inflammation_Complement system	31	2.338E-01	9.916E-01	2.338E-01	9.916E-01	2	MBL2, CD21
+Inflammation_IL-10 anti-inflammatory response	58	2.462E-01	9.916E-01	2.462E-01	9.916E-01	3	Cyclin D2, p38alpha (MAPK14), Nucleolysin TIAR
+Neurophysiological process_Long-term potentiation	33	2.560E-01	9.916E-01	2.560E-01	9.916E-01	2	RAP-1A, eIF4E
+Chemotaxis	88	2.636E-01	9.916E-01	2.636E-01	9.916E-01	4	CX3CR1, p38alpha (MAPK14), CCL21, ROBO2
+Immune response_T helper cell differentiation	90	2.769E-01	9.916E-01	2.769E-01	9.916E-01	4	p38alpha (MAPK14), CD40(TNFRSF5), PKC-theta, TNF-beta
+Apoptosis_Endoplasmic reticulum stress pathway	65	3.030E-01	9.916E-01	3.030E-01	9.916E-01	3	p38alpha (MAPK14), eIF1, Caspase-12
+Cell adhesion_Cell junctions	96	3.173E-01	9.916E-01	3.173E-01	9.916E-01	4	Connexin 37, 14-3-3 epsilon, 14-3-3 eta, JAM3
+Immune response_Antigen presentation	126	3.179E-01	9.916E-01	3.179E-01	9.916E-01	5	CD8 alpha, CD3 epsilon, CD40(TNFRSF5), KLRK1 (NKG2D), HLA-DOA
+Inflammation_Neutrophil activation	127	3.238E-01	9.916E-01	3.238E-01	9.916E-01	5	CX3CR1, p38alpha (MAPK14), TNF-beta, gp91-phox, SNAP-23
+Translation_Regulation of initiation	97	3.241E-01	9.916E-01	3.241E-01	9.916E-01	4	eIF3S5, p38alpha (MAPK14), eIF2S2, eIF4E
+Reproduction_FSH-beta signaling pathway	99	3.377E-01	9.916E-01	3.377E-01	9.916E-01	4	Cyclin D2, p38alpha (MAPK14), eIF4E, RPS6
+Cytoskeleton_Intermediate filaments	41	3.444E-01	9.916E-01	3.444E-01	9.916E-01	2	14-3-3 gamma, 14-3-3 eta
+Translation_Selenium pathway	44	3.769E-01	9.916E-01	3.769E-01	9.916E-01	2	RPL30, Selenoprotein P
+Protein folding_Protein folding nucleus	45	3.875E-01	9.916E-01	3.875E-01	9.916E-01	2	MM-1, FKBP12
+Inflammation_Inflammasome	79	4.172E-01	9.916E-01	4.172E-01	9.916E-01	3	PACT, p38alpha (MAPK14), eIF2S2
+Inflammation_Jak-STAT Pathway	111	4.193E-01	9.916E-01	4.193E-01	9.916E-01	4	STAM1, CD40(TNFRSF5), TNF-beta, GHR
+Cell cycle_Mitosis	144	4.251E-01	9.916E-01	4.251E-01	9.916E-01	5	Karyopherin alpha 1, DCTN5, 14-3-3 gamma, Karyopherin alpha 4, 14-3-3 eta
+Blood coagulation	49	4.293E-01	9.916E-01	4.293E-01	9.916E-01	2	Annexin IV, CD40(TNFRSF5)
+Cell adhesion_Leucocyte chemotaxis	115	4.461E-01	9.916E-01	4.461E-01	9.916E-01	4	CX3CR1, RAP-1A, CCL21, GRAP2
+Cell cycle_G0-G1	52	4.597E-01	9.916E-01	4.597E-01	9.916E-01	2	RAP-1A, HDAC9
+Apoptosis_Anti-Apoptosis mediated by external signals by Estrogen	52	4.597E-01	9.916E-01	4.597E-01	9.916E-01	2	p38alpha (MAPK14), gp91-phox
+Signal transduction_WNT signaling	118	4.660E-01	9.916E-01	4.660E-01	9.916E-01	4	Cyclin D2, Lef-1, p38alpha (MAPK14), FRAT1
+Development_Melanocyte development and pigmentation	21	4.693E-01	9.916E-01	4.693E-01	9.916E-01	1	Lef-1
+Neurophysiological process_Corticoliberin signaling	22	4.851E-01	9.916E-01	4.851E-01	9.916E-01	1	RAP-1A
+Development_Ossification and bone remodeling	88	4.876E-01	9.916E-01	4.876E-01	9.916E-01	3	Lef-1, YAP1 (YAp65), GHR
+Development_Hemopoiesis, Erythropoietin pathway	89	4.952E-01	9.916E-01	4.952E-01	9.916E-01	3	Cyclin D2, RAP-1A, p38alpha (MAPK14)
+Reproduction_Male sex differentiation	156	4.952E-01	9.916E-01	4.952E-01	9.916E-01	5	Cyclin D2, CD27(TNFRSF7), Selenoprotein P, p38alpha (MAPK14), STK39
+Protein folding_Response to unfolded proteins	57	5.082E-01	9.916E-01	5.082E-01	9.916E-01	2	Hdj-2, HSP10 (mitochondrial)
+Signal transduction_ESR2 pathway	59	5.268E-01	9.916E-01	5.268E-01	9.916E-01	2	REXO4, 14-3-3 eta
+Cardiac development_Role of NADPH oxidase and ROS	94	5.322E-01	9.916E-01	5.322E-01	9.916E-01	3	HDAC9, gp91-phox, 14-3-3 epsilon
+Inflammation_NK cell cytotoxicity	95	5.395E-01	9.916E-01	5.395E-01	9.916E-01	3	CD3 epsilon, KLRK1 (NKG2D), NKp46
+Inflammation_IL-2 signaling	62	5.538E-01	9.916E-01	5.538E-01	9.916E-01	2	Cyclin D2, BFL1
