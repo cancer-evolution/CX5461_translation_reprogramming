@@ -1,7 +1,7 @@
 ###Cluster profiler visualization of resistant GeneGO results
 
 library(ggplot2)
-source("polysome_profiling_functions.R")
+source("helper_functions.R")
 
 genego_up <- read.table("CX_vs_CTRL_diff_translated (w bg list) - ALL SIG up only.txt",
                         sep="\t", header=TRUE)
