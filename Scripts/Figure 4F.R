@@ -14,7 +14,8 @@ limma_results_CX_Ct <- read.table("Sig_genes_CX_Ct_poly_all.txt", sep="\t",
                                   header=TRUE)
 
 OX_genes <- c("Ndufv1","Ndufc2","Ndufb8","Ndufb5","Ndufa4","Ndufa5",
-              "Ndufb2","Cyc1","Uqcrc1","Atp5a1","Atp5b","Atp5f1")
+              "Ndufb2","Cyc1","Uqcrc1","Uqcrb","Cox4i1","Atp5a1","Atp5b","Atp5f1")
+
 OX_CM_Ct <- limma_results_CM_Ct[match(OX_genes, limma_results_CM_Ct$genes),]
 OX_CX_Ct <- limma_results_CX_Ct[match(OX_genes, limma_results_CX_Ct$genes),]
 OX_df <- rbind(cbind(OX_CM_Ct, Comparison="CM_Ct"),
