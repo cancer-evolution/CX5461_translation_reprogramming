@@ -1,5 +1,4 @@
 ##Script to find DEG/DET genes using anota/limma
-#Do PCA plot to being with
 
 library(ggplot2)
 library(limma)
@@ -14,13 +13,9 @@ files <- c("Acute_input.txt",
            "Acute_poly.txt")
 
 sample_types <- c("CMB", "CX", "EV", "CTRL")
-contrasts <- c("CMB_CX", "CMB_CTRL", "CMB_EV")
+contrasts <- c("CMB_CTRL", "CX_CTRL", "EV_CTRL")
 
 omni = TRUE
-
-#First column should be gene names, other columns counts
-#The names of counts columns are assumed to be of the format:
-#CTRL-sample_number-INPUT
 
 use_only_coding_genes <- TRUE
 
@@ -84,7 +79,7 @@ colnames(counts_all_voom) <- gsub("_poly", "", colnames(counts_all_voom))
 
 
 
-#####Anota analysis with anota2seq following the step-by-step method
+#####Anota analysis
 
 sample_classes <- rep(NA, length(ncol(preProcess$dataT)))
 for(local_type in sample_types){
@@ -96,11 +91,13 @@ qc <- anota2seqPerformQC(dataT= preProcess$dataT,
                          phenoVec = sample_classes,
                          useProgBar = FALSE)
 
+
+
 #########OMNIBUS
 ##Select set of omnibus genes, and then re-run anota
 
 # Get the genes that have a FDR < 0.15 from the omnibus test
-omniSig <- qc$omniGroupStats[qc$omniGroupStats[,"groupRvmPAdj"] < .15,] 
+omniSig <- qc$omniGroupStats[qc$omniGroupStats[,"groupRvmPAdj"] < .15,]
 
 omni_genes <- rownames(omniSig)
 
@@ -113,9 +110,6 @@ sd_omni <- apply(counts_omni,1,sd)
 plot(density(sd_omni))
 
 counts_omni_filt <- counts_omni[sd_omni > .3,]
-
-
-pca_omni_filt<- generatePCA(count_data = counts_omni_filt,nameApp = "OMNI")
 
 counts_omni_list <- counts
 counts_omni_list$Input <- counts$Input[rownames(counts$Input) %in% omni_genes,]
@@ -192,21 +186,12 @@ anota2seqTranslationOut_omni <- anota2seqAnalyse(
   contrasts = contrast_matrix,
   useProgBar = FALSE)
 
-## analysis of translational buffering
-anota2seqBufferingOut_omni <- anota2seqAnalyse(
-  dataT = preProcess_omni$dataT,
-  dataP = preProcess_omni$dataP,
-  phenoVec = sample_classes_omni,
-  analyse = "buffering",
-  contrasts = contrast_matrix,
-  useProgBar = FALSE)
 
 combineOutput_omni <- list("qualityControl" = NULL,
                            "residOutlierTest" = NULL,
                            "polysomeassociatedmRNA" =anota2seqPolyOut_omni,
                            "totalmRNA" = anota2seqTotalOut_omni,
-                           "translation" = anota2seqTranslationOut_omni,
-                           "buffering" = anota2seqBufferingOut_omni)
+                           "translation" = anota2seqTranslationOut_omni)
 
 
 for(i in 1:length(contrasts)){
@@ -227,72 +212,5 @@ for(i in 1:length(contrasts)){
   write.table(temp_trans, file=paste("Anota_differential_translation_results_",contrast, "_omni.txt", sep=""),
               quote=FALSE, sep="\t")
   
-  temp_buff <- as.data.frame(anota2seqBufferingOut_omni$apvStatsRvm[[i]])
-  temp_buff <- temp_buff[order(temp_buff$apvRvmPAdj, decreasing=FALSE),]
-  write.table(temp_buff, file=paste("Anota_buffering_results_",contrast, "_omni.txt", sep=""),
-              quote=FALSE, sep="\t")
   print(contrast)
-  
-  df <- data.frame(Gene = rownames(temp_input), Input = temp_input$apvEff)
-  df <- data.frame(df, Poly=temp_poly$apvEff[match(rownames(temp_input), rownames(temp_poly))])
-  
-  diff_translated <- rownames(temp_trans)[intersect(which(abs(temp_trans$apvEff) > log2(1.25)),
-                                                    which(temp_trans$apvRvmPAdj < 0.15))]
-  buffered <- rownames(temp_buff)[intersect(which(abs(temp_buff$apvEff) > log2(1.25)),
-                                            which(temp_buff$apvRvmPAdj < 0.15))]
-  sig_input <- rownames(temp_input)[intersect(which(abs(temp_input$apvEff) > log2(1.25)),
-                                              which(temp_input$apvRvmPAdj < 0.15))]
-  sig_poly <- rownames(temp_poly)[intersect(which(abs(temp_poly$apvEff) > log2(1.25)),
-                                            which(temp_poly$apvRvmPAdj < 0.15))]
-  
-  df$Class <- "None"
-  df$Class[df$Gene %in% buffered] <- "Buffered"
-  df$Class[df$Gene %in% diff_translated] <- "Differentially_translated"
-  
-  maximum_value <- max(c(df$Input, df$Poly))
-  
-  
-  df[df$Class == "Differentially_translated","Class"] <- ifelse(df[df$Class == "Differentially_translated","Poly"] >0, "Diff_trans_up",
-                                                                "Diff_trans_down")
-  
-  df[df$Class == "Buffered","Class"] <- ifelse(df[df$Class == "Buffered","Input"] >0, "Buff_down",
-                                               "Buff_up")
-  
-  mRNA <- sig_input[sig_input %in% sig_poly]
-  
-  df$Class[df$Gene %in% mRNA] <- "mRNA"
-  
-  df[df$Class == "mRNA","Class"] <- ifelse(df[df$Class == "mRNA","Input"] >0, "mRNA_up", "mRNA_down")
-  
-  
-  pdf(paste("Total mRNA - Polysome plot ", contrast, ".pdf", sep=""), height=6, width=8)
-  
-  g <- ggplot(df, aes(x=Input, y =Poly))+
-    geom_point(aes(fill=Class), pch=21)+
-    geom_vline(xintercept=0, linetype="dashed")+
-    geom_hline(yintercept=0, linetype="dashed")+
-    geom_vline(xintercept=log2(1.25))+
-    geom_hline(yintercept=log2(1.25))+
-    geom_vline(xintercept=-log2(1.25))+
-    geom_hline(yintercept=-log2(1.25))+
-    geom_abline(intercept=0, slope=1, linetype="dashed")+
-    geom_abline(intercept=log2(1.25), slope=1)+
-    geom_abline(intercept=-log2(1.25), slope=1)+
-    scale_fill_manual(values=c(Diff_trans_up = "orange",
-                               Diff_trans_down = "darkred",
-                               Buff_down="royalblue", Buff_up="lightblue",
-                               None="black", mRNA_up="lightgreen",
-                               mRNA_down="darkgreen"))+
-    ggtitle(contrast)+
-    xlab("Total mRNA")+
-    ylab("Polysome-associated mRNA")+
-    xlim(-maximum_value,maximum_value)+
-    ylim(-maximum_value,maximum_value)+
-    theme_bw()+
-    theme(panel.grid.major = element_blank(),
-          panel.grid.minor = element_blank())
-  
-  print(g)
-  dev.off()
 }
-  
