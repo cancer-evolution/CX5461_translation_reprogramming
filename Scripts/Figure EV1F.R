@@ -3,12 +3,11 @@
 library(ggplot2)
 source("helper_functions.R")
 
-##EV Ctrl comparison
-genego_up <- read.table("EV_vs_CTRL_diff_translated (w bg list) - ALL SIG up only.txt",
+genego_up <- read.table("CX_vs_CTRL_diff_translated (w bg list) - ALL SIG up only.txt",
                         sep="\t", header=TRUE)
-genego_down <- read.table("EV_vs_CTRL_diff_translated (w bg list) - ALL SIG down only.txt",
+genego_down <- read.table("CX_vs_CTRL_diff_translated (w bg list) - ALL SIG down only.txt",
                           sep="\t", header=TRUE)
-genego_both <- read.table("EV_vs_CTRL_diff (with bg list) - ALL SIG both up and down.txt",
+genego_both <- read.table("CX_vs_CTRL_diff (with bg list) - ALL SIG both up and down.txt",
                           sep="\t", header=TRUE)
 
 genego_up <- genego_up[,c("Networks", "FDR", "In.Data", "Total")]
@@ -42,8 +41,9 @@ pathway_number_complete <- pathway_number_complete[!is.na(pathway_number_complet
 pathway_number_complete$Total <- genego_both[match(pathway_number_complete$Pathways, genego_both$Networks), "Total"]
 pathway_number_complete$FDR <- genego_both[match(pathway_number_complete$Pathways, genego_both$Networks), "FDR"]
 
+pathway_number_complete <- pathway_number_complete[pathway_number_complete$Number_up >= 0,]
+
 genego <- pathway_number_complete[order(pathway_number_complete$FDR, decreasing = FALSE),]
-genego <- genego[1:15,]
 
 genego$Ratio <- genego$Number_both/genego$Total
 
@@ -53,13 +53,26 @@ genego$Pathways <- factor(genego$Pathways, levels=genego$Pathways[order(genego$F
 
 genego$Direction <- genego$Per_down
 
+
 genego$Direction <- 100-genego$Per_down
 
 ggplot(genego, aes(x=FDR, y =Pathways))+
   geom_point(aes(size=Ratio, fill=Direction),pch=21)+
   scale_fill_gradient2(low="blue", high="red", midpoint=50, mid="white")+
+  geom_vline(xintercept=0.05, "black")+
   geom_point(aes(size=Ratio, fill=Direction), pch=21)+
   ylab("")+
   theme_bw()
 
 
+##Plotting only the top 15
+genego <- genego[1:15,]
+
+
+ggplot(genego, aes(x=FDR, y =Pathways))+
+  geom_point(aes(size=Ratio, fill=Direction),pch=21)+
+  scale_fill_gradient2(low="blue", high="red", midpoint=50, mid="white")+
+  geom_vline(xintercept=0.05, "black")+
+  geom_point(aes(size=Ratio, fill=Direction), pch=21)+
+  ylab("")+
+  theme_bw()
